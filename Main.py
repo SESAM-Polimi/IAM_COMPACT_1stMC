@@ -19,20 +19,21 @@ from Shocks_building import(
 
 user = "LR"
 studies = {
+    'Study 2': ['EnergyPLAN'],
     'Study 3': ['GCAM'], # 'TIAM'
     'Study 4': ['GCAM'], # 'TIAM'    
     }
 sN = slice(None)
 paths = 'Paths.xlsx'
 
-study = 'Study 3'
+study = 'Study 2'
 
 #%% Reading IAMs models results
 sets_selection = {
-    "Scenarios": {"GCAM": "Selection 1", "PROMETHEUS": "Selection 1", "TIAM": "Selection 1", "MUSE": "Selection 1"},
-    "Regions": {"GCAM": "Selection 1", "PROMETHEUS": "Selection 1", "TIAM": "Selection 1", "MUSE": "Selection 1"},
-    "Variables": {"GCAM": "Selection 1", "PROMETHEUS": "Selection 1", "TIAM": "Selection 1", "MUSE": "Selection 1"},
-    "Years": {"GCAM": "Selection 1", "PROMETHEUS": "Selection 1", "TIAM": "Selection 1", "MUSE": "Selection 1"},
+    "Scenarios": {"GCAM": "Selection 1", "PROMETHEUS": "Selection 1", "TIAM": "Selection 1", "MUSE": "Selection 1","EnergyPLAN": "Selection 1"},
+    "Regions": {"GCAM": "Selection 1", "PROMETHEUS": "Selection 1", "TIAM": "Selection 1", "MUSE": "Selection 1","EnergyPLAN": "Selection 1"},
+    "Variables": {"GCAM": "Selection 1", "PROMETHEUS": "Selection 1", "TIAM": "Selection 1", "MUSE": "Selection 1","EnergyPLAN": "Selection 1"},
+    "Years": {"GCAM": "Selection 1", "PROMETHEUS": "Selection 1", "TIAM": "Selection 1", "MUSE": "Selection 1","EnergyPLAN": "Selection 1"},
     }
 
 models_results, models_sets = main_models_results(
