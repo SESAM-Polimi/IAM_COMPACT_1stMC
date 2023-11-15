@@ -19,12 +19,13 @@ from Shocks_building import(
 
 user = "LR"
 studies = {
-    'Study 4': ['GCAM'] # 'TIAM'
+    'Study 3': ['GCAM'], # 'TIAM'
+    'Study 4': ['GCAM'], # 'TIAM'    
     }
 sN = slice(None)
 paths = 'Paths.xlsx'
 
-study = 'Study 4'
+study = 'Study 3'
 
 #%% Reading IAMs models results
 sets_selection = {
@@ -108,15 +109,16 @@ for model in studies[study]:
             scenario = scemario,
             **clusters
             )
-        
-    # EY_update(
-    #     model_sets = models_sets[model],
-    #     shock_inputs = shock_inputs[model],
-    #     mapping_info = mapping_info[model],
-    #     mario_db = worlds[model]
-    #     )
-        
-#%%
 
+
+#%%
+f = {}
+Y = {}
+for model in studies[study]:
+    f[model] = worlds[model].get_data(['f'],scenarios=worlds[model].scenarios)
+    Y[model] = worlds[model].get_data(['Y'],scenarios=worlds[model].scenarios)
+    for scenario in worlds[model].scenarios:
+        f[model][scenario] = f[model][scenario][0].loc['CO2 - combustion - air',('EU27','Commodity',['Offshore wind plants','Onshore wind plants','Photovoltaic plants'])]
+        Y[model][scenario] = Y[model][scenario][0].loc[('EU27','Commodity',['Offshore wind plants','Onshore wind plants','Photovoltaic plants']),:]
 
 

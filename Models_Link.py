@@ -41,7 +41,7 @@ def main_models_results(
             }
     
     """Saving sets for each model"""
-    sets_directory = pd.read_excel(paths_file, index_col=[0]).loc["Models_Sets",user]
+    sets_directory = os.getcwd()+f"\\{study}\\Models_link\\Sets"
     
     if save_sets:
         for s in sets[model].keys():
