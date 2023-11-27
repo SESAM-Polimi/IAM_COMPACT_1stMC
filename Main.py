@@ -114,13 +114,12 @@ for model in studies[study]:
             )
 
 #%% Exporting tables
-# for model in studies[study]:
-#     for scenarios in worlds[model].scenarios:
-#         folder_name = os.getcwd()+f"\\{study}\\Results\\{model}\\"
-#         if not os.path.exists(folder_name):
-#             os.mkdir(folder_name)
-#         db.to_txt(folder_name, flows=False, coefficients=True)
-#         worlds[model]to_txt(r"\\".join(os.getcwd().split("\\"))+f"\\{study}\\Baseline SUT\\{model}\\flows", table='SUT', mode='flows')
+for model in studies[study]:
+    for scenarios in worlds[model].scenarios:
+        folder_name = os.getcwd()+f"\\{study}\\Results\\{model}\\SUTs\\{scenarios}"
+        if not os.path.exists(folder_name):
+            os.mkdir(folder_name)
+        worlds[model].to_txt(folder_name)
 
 #%% exporting results
 for model in studies[study]:
@@ -165,6 +164,31 @@ for model in studies[study]:
         save_wiliam = True,
         )
     
+#%% reimporting 2050 tables and applying re/off shoring shocks
+scenarios = ['NDC_LTT_CBAM - 2050','NDC_LTT_INDEPENDENCE - 2050','NDC_LTT_CBAM - 2050']
+shocks = ['New steel sectors_2050_imp','New steel sectors_2050_prod']
+
+for model in studies[study]:
+    worlds[model] = {}
+    for scenario in scenarios:
+        folder_name = os.getcwd()+f"\\{study}\\Results\\{model}\\SUTs\\{scenario}\\flows"
+        worlds[model][scenario] = mario.parse_from_txt(folder_name,table='SUT',mode='flows') 
+        for shock in shocks:
+            worlds[model][scenario].shock_calc(os.getcwd()+f"\\{study}\\Shocks\\{model}\\{shock}.xlsx",z=True,e=True,scenario=shock)
+            
+            db = mario.Database(
+                Z = worlds[model][scenario].matrices[shock]['Z'],
+                Y = worlds[model][scenario].matrices[shock]['Y'],
+                E = worlds[model][scenario].matrices[shock]['E'],
+                V = worlds[model][scenario].matrices[shock]['V'],
+                EY =worlds[model][scenario].matrices[shock]['EY'],
+                units = worlds[model][scenario].units,
+                table='SUT',
+            )
+            db.to_iot(method='D') 
+            db.to_txt(os.getcwd()+f"\\{study}\\Results\\{model}\\WILIAM\\{scenario}_{shock.split('_')[-1]}")
+        
+        
 
 #%% plotting results
 from _plot_properties import study_properties as sp
