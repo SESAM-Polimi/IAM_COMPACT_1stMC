@@ -28,7 +28,7 @@ studies = {
 sN = slice(None)
 paths = 'Paths.xlsx'
 
-study = 'Study 4'
+study = 'Study 3'
 
 #%% Reading IAMs models results
 sets_selection = {
@@ -101,7 +101,7 @@ for model in studies[study]:
     print(model)
     mapping_info[model]['shock_map'].reset_index(inplace=True)
     mapping_info[model]['shock_map'].set_index(['Variables', 'Function', 'Functions clustering'], inplace=True)
-
+    
     for scemario in models_sets[model]['SceMARIOs']:
         print(scemario)
         clusters = get_shock_clusters(mapping_info[model], worlds[model])
@@ -111,7 +111,9 @@ for model in studies[study]:
             z = True,
             scenario = scemario,
             **clusters
-            )
+            )      
+
+        
 
 #%% Exporting tables
 for model in studies[study]:
@@ -119,7 +121,7 @@ for model in studies[study]:
         folder_name = os.getcwd()+f"\\{study}\\Results\\{model}\\SUTs\\{scenarios}"
         if not os.path.exists(folder_name):
             os.mkdir(folder_name)
-        worlds[model].to_txt(folder_name)
+        worlds[model].to_txt(folder_name, scenario=scenarios)
 
 #%% exporting results
 for model in studies[study]:
@@ -165,49 +167,131 @@ for model in studies[study]:
         )
     
 #%% reimporting 2050 tables and applying re/off shoring shocks
-scenarios = ['NDC_LTT_CBAM - 2050','NDC_LTT_INDEPENDENCE - 2050','NDC_LTT_CBAM - 2050']
-shocks = ['New steel sectors_2050_imp','New steel sectors_2050_prod']
+# scenarios = ['NDC_LTT_CBAM - 2050','NDC_LTT_INDEPENDENCE - 2050','NDC_LTT - 2050']
+# shocks = ['New steel sectors_2050_imp','New steel sectors_2050_prod']
 
-for model in studies[study]:
-    worlds[model] = {}
-    for scenario in scenarios:
-        folder_name = os.getcwd()+f"\\{study}\\Results\\{model}\\SUTs\\{scenario}\\flows"
-        worlds[model][scenario] = mario.parse_from_txt(folder_name,table='SUT',mode='flows') 
-        for shock in shocks:
-            worlds[model][scenario].shock_calc(os.getcwd()+f"\\{study}\\Shocks\\{model}\\{shock}.xlsx",z=True,e=True,scenario=shock)
+# worlds = {}
+
+# for model in studies[study]:
+#     worlds[model] = {}
+#     for scenario in scenarios:
+#         folder_name = os.getcwd()+f"\\{study}\\Results\\{model}\\SUTs\\{scenario}\\flows"
+#         worlds[model][scenario] = mario.parse_from_txt(folder_name,table='SUT',mode='flows') 
+#         for shock in shocks:
+#             worlds[model][scenario].shock_calc(os.getcwd()+f"\\{study}\\Shocks\\{model}\\{shock}.xlsx",z=True,e=True,scenario=shock)
             
-            db = mario.Database(
-                Z = worlds[model][scenario].matrices[shock]['Z'],
-                Y = worlds[model][scenario].matrices[shock]['Y'],
-                E = worlds[model][scenario].matrices[shock]['E'],
-                V = worlds[model][scenario].matrices[shock]['V'],
-                EY =worlds[model][scenario].matrices[shock]['EY'],
-                units = worlds[model][scenario].units,
-                table='SUT',
-            )
-            db.to_iot(method='D') 
-            db.to_txt(os.getcwd()+f"\\{study}\\Results\\{model}\\WILIAM\\{scenario}_{shock.split('_')[-1]}")
+#             db = mario.Database(
+#                 Z = worlds[model][scenario].matrices[shock]['Z'],
+#                 Y = worlds[model][scenario].matrices[shock]['Y'],
+#                 E = worlds[model][scenario].matrices[shock]['E'],
+#                 V = worlds[model][scenario].matrices[shock]['V'],
+#                 EY =worlds[model][scenario].matrices[shock]['EY'],
+#                 units = worlds[model][scenario].units,
+#                 table='SUT',
+#             )
+#             db.to_iot(method='D') 
+#             db.to_txt(os.getcwd()+f"\\{study}\\Results\\{model}\\WILIAM\\{scenario}_{shock.split('_')[-1]}",flows=False,coefficients=True)
         
         
 
 #%% plotting results
-from _plot_properties import study_properties as sp
+# from _plot_properties import study_properties as sp
 
-for model in studies[study]:
+# for model in studies[study]:
 
-    plot_footprints(
-        sat_accounts = sp[study]['sat_accounts'], 
-        units = sp[study]['units'], 
-        GWP = sp[study]['GWP'], 
-        regions_to = sp[study]['regions_to'], 
-        activities_to = sp[study]['activities_to'], 
-        scenario = 'Baseline - 2050',
-        ee_prices = pd.read_excel('ee_prices.xlsx',sheet_name=model,index_col=[0]),
-        path_results=os.getcwd()+f"\\{study}\\Results\\{model}\\Footprints_Monetary",
-        path_physical=os.getcwd()+f"\\{study}\\Results\\{model}\\Footprints_Physical",
-        path_aggregation=os.getcwd()+f"\\{study}\\Results\\{model}\\Aggregation_plots.xlsx",
-        path_plot=os.getcwd()+f"\\{study}\\Results\\{model}\\Plots\\Footprints.html",
-        load_ph_footprints=False,
-        )
+#     plot_footprints(
+#         sat_accounts = sp[study]['sat_accounts'], 
+#         units = sp[study]['units'], 
+#         GWP = sp[study]['GWP'], 
+#         regions_to = sp[study]['regions_to'], 
+#         activities_to = sp[study]['activities_to'], 
+#         scenario = 'Baseline - 2050',
+#         ee_prices = pd.read_excel('ee_prices.xlsx',sheet_name=model,index_col=[0]),
+#         path_results=os.getcwd()+f"\\{study}\\Results\\{model}\\Footprints_Monetary",
+#         path_physical=os.getcwd()+f"\\{study}\\Results\\{model}\\Footprints_Physical",
+#         path_aggregation=os.getcwd()+f"\\{study}\\Results\\{model}\\Aggregation_plots.xlsx",
+#         path_plot=os.getcwd()+f"\\{study}\\Results\\{model}\\Plots\\Footprints.html",
+#         load_ph_footprints=False,
+#         )
     
-#%%    
+#%%   
+sc = 'Domestic'
+mats = {
+    'Aluminium ores and concentrates': 'Aluminium',
+    'Copper ores and concentrates': 'Copper',
+    'Dysprosium': 'Dysprosium',
+    'Iron ores': 'Iron',
+    'Neodymium': 'Noedymium',
+    'Nickel ores and concentrates': 'Nickel',
+    'Raw silicon': 'Silicon',
+    }
+
+techs = {
+    'Production of photovoltaic plants': 'PV',
+    'Production of onshore wind plands': 'Onshore wind',
+    'Production of offshore wind plants': 'Offshore wind',
+    }
+
+for model in studies[study]: 
+    if study=='Study 3':
+        
+        path = f"{study}\Results\{model}\SUTs\{sc} supply chains"
+        
+        scems = os.listdir(path)
+        scens = []
+        years = []
+        
+        X_mat = {}
+        X_techs = {}
+        
+        for scem in scems:
+            s = scem.split(' - ')[0]
+            y = scem.split(' - ')[-1]
+            if s not in scens and s!='baseline':
+                scens += [s]
+            if y not in years:
+                years += [y]
+            
+            X_mat[s] = pd.DataFrame()
+            X_techs[s] = pd.DataFrame()
+
+        for scem in scems:
+            s = scem.split(' - ')[0]
+            y = scem.split(' - ')[-1]
+            
+            world = mario.parse_from_txt(f"{path}\\{scem}\\flows", 'SUT', 'flows')
+            
+            X1 = world.X.loc[(slice(None),'Commodity',list(mats.keys())),:]
+            X2 = world.X.loc[(slice(None),'Activity',list(techs.keys())),:]#.sum(1).to_frame()
+            X1.columns = [y]
+            X2.columns = [y]
+            
+            X_mat[s] = pd.concat([X_mat[s],X1],axis=1)
+            X_techs[s] = pd.concat([X_techs[s],X2],axis=1)
+        
+
+
+#%%
+path = r"C:\Users\loren\Documents\GitHub\SESAM\IAM_COMPACT_1stMC\Study 3\Results\GCAM\WILIAM\Domestic supply chains"
+names = os.listdir(path)
+
+Y = {}
+z = {}
+e = {}
+v = {}
+for name in names:
+    world = mario.parse_from_txt(f"{path}\\{name}\\coefficients", 'IOT', 'coefficients')
+    Y[name] = world.Y
+    z[name] = world.z
+    e[name] = world.e
+    v[name] = world.v
+    
+yy = Y['CP_EI - 2005'] - Y['CP_EI - 2010']
+zz = z['CP_EI - 2005'] - z['CP_EI - 2010']
+ee = e['CP_EI - 2005'] - e['CP_EI - 2010']
+vv = v['CP_EI - 2005'] - v['CP_EI - 2010']
+            
+            
+            
+        
+

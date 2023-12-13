@@ -1,0 +1,1461 @@
+Region,Level,Item,production
+China,Activity,Activities auxiliary to financial intermediation (67),192224390430.62726
+China,Activity,Activities of membership organisation n.e.c. (91),213056505629.3843
+China,Activity,Air transport (62),187164858803.09546
+China,Activity,Aluminium production,32720022565.05979
+China,Activity,Animal products nec,1110879003.2196202
+China,Activity,"Biogasification of food waste, incl. land application",2715845654.8334794
+China,Activity,"Biogasification of paper, incl. land application",324109755.45908546
+China,Activity,"Biogasification of sewage slugde, incl. land application",13756448638.6015
+China,Activity,Casting of metals,48848660311.54234
+China,Activity,Cattle farming,27976171459.600304
+China,Activity,Chemicals nec,163633523853.4967
+China,Activity,"Collection, purification and distribution of water (41)",84122587056.05687
+China,Activity,"Composting of food waste, incl. land application",19888881729.380188
+China,Activity,"Composting of paper and wood, incl. land application",64978976.18028117
+China,Activity,Computer and related activities (72),395305760799.1738
+China,Activity,Construction (45),1845066125326.173
+China,Activity,Copper production,61751087089.23749
+China,Activity,Cultivation of cereal grains nec,32758890410.11802
+China,Activity,Cultivation of crops nec,32649763470.865814
+China,Activity,Cultivation of oil seeds,23603256639.418922
+China,Activity,Cultivation of paddy rice,1538260206.6776886
+China,Activity,Cultivation of plant-based fibers,959486743.8777187
+China,Activity,"Cultivation of sugar cane, sugar beet",4455376276.976729
+China,Activity,"Cultivation of vegetables, fruit, nuts",106034537475.93782
+China,Activity,Cultivation of wheat,31562858471.64242
+China,Activity,Distribution and trade of electricity,233453285886.72943
+China,Activity,Education (80),825125538694.9207
+China,Activity,Extra-territorial organizations and bodies,18928.083599511832
+China,Activity,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",55129107258.26553
+China,Activity,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",29200830583.892616
+China,Activity,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",153813124.93249533
+China,Activity,"Financial intermediation, except insurance and pension funding (65)",697918883457.4607
+China,Activity,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",16571546316.705841
+China,Activity,"Forestry, logging and related service activities (02)",41674395181.667336
+China,Activity,Health and social work (85),1340794064766.7397
+China,Activity,Hotels and restaurants (55),884845877910.34
+China,Activity,Incineration of waste: Food,10713670838.653332
+China,Activity,Incineration of waste: Metals and Inert materials,19117419738.46592
+China,Activity,Incineration of waste: Oil/Hazardous waste,13486112759.543772
+China,Activity,Incineration of waste: Paper,12949250769.412558
+China,Activity,Incineration of waste: Plastic,10701095007.047018
+China,Activity,Incineration of waste: Textiles,2419930742.2372885
+China,Activity,Incineration of waste: Wood,5681675371.810292
+China,Activity,Inland water transport,9422544901.996735
+China,Activity,"Insurance and pension funding, except compulsory social security (66)",330534877720.51154
+China,Activity,Landfill of waste: Food,13538260407.530117
+China,Activity,Landfill of waste: Inert/metal/hazardous,15095617012.051683
+China,Activity,Landfill of waste: Paper,9660102222.506052
+China,Activity,Landfill of waste: Plastic,2939770142.258032
+China,Activity,Landfill of waste: Textiles,1747864819.0143337
+China,Activity,Landfill of waste: Wood,3035609390.4031053
+China,Activity,"Lead, zinc and tin production",9738079515.32661
+China,Activity,Manufacture of LFP batteries,0.0
+China,Activity,Manufacture of NCA batteries,0.0
+China,Activity,Manufacture of NMC batteries,0.0
+China,Activity,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,123426633504.835
+China,Activity,Manufacture of beverages,144898565592.14746
+China,Activity,"Manufacture of bricks, tiles and construction products, in baked clay",14651696717.444313
+China,Activity,"Manufacture of cement, lime and plaster",103645136352.14644
+China,Activity,Manufacture of ceramic goods,28347294585.836395
+China,Activity,Manufacture of coke oven products,4982067637.410242
+China,Activity,Manufacture of electrical machinery and apparatus n.e.c. (31),312244456492.1247
+China,Activity,"Manufacture of fabricated metal products, except machinery and equipment (28)",529077323413.3448
+China,Activity,Manufacture of fish products,26604752792.085747
+China,Activity,Manufacture of furniture; manufacturing n.e.c. (36),212371650751.49246
+China,Activity,Manufacture of gas; distribution of gaseous fuels through mains,163696499154.7648
+China,Activity,Manufacture of glass and glass products,27184494330.18108
+China,Activity,Manufacture of machinery and equipment n.e.c. (29),716701043313.7756
+China,Activity,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",174978926058.6537
+China,Activity,"Manufacture of motor vehicles, trailers and semi-trailers (34)",738498922075.8315
+China,Activity,Manufacture of office machinery and computers (30),67301504129.313644
+China,Activity,Manufacture of other non-metallic mineral products n.e.c.,39713008223.17685
+China,Activity,Manufacture of other transport equipment (35),217739070869.34027
+China,Activity,"Manufacture of radio, television and communication equipment and apparatus (32)",185763499760.6911
+China,Activity,Manufacture of rubber and plastic products (25),285302693190.5746
+China,Activity,Manufacture of textiles (17),124016204345.00171
+China,Activity,Manufacture of tobacco products (16),23065813260.573498
+China,Activity,Manufacture of wearing apparel; dressing and dyeing of fur (18),108945545291.04643
+China,Activity,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",111180564268.46675
+China,Activity,"Manure treatment (biogas), storage and land application",48654.45890576633
+China,Activity,"Manure treatment (conventional), storage and land application",48724.323669453006
+China,Activity,Meat animals nec,11529080143.418526
+China,Activity,Mining of aluminium ores and concentrates,234784986.16040626
+China,Activity,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",14974650565.552929
+China,Activity,Mining of coal and lignite; extraction of peat (10),27448323921.53161
+China,Activity,Mining of copper ores and concentrates,8687318154.457598
+China,Activity,Mining of iron ores,589064513.0130577
+China,Activity,"Mining of lead, zinc and tin ores and concentrates",1651391161.8388307
+China,Activity,Mining of nickel ores and concentrates,221287936.63890868
+China,Activity,Mining of other non-ferrous metal ores and concentrates,1422682771.4102738
+China,Activity,Mining of precious metal ores and concentrates,591641166.4048499
+China,Activity,Mining of uranium and thorium ores (12),518226659.7586974
+China,Activity,N-fertiliser,886890073.6335065
+China,Activity,Other business activities (74),1735399704415.065
+China,Activity,Other land transport,582653985079.2335
+China,Activity,Other non-ferrous metal production,11573884099.023846
+China,Activity,Other service activities (93),164381993605.08508
+China,Activity,P- and other fertiliser,7293351565.13465
+China,Activity,Paper,120691717446.03217
+China,Activity,Petroleum Refinery,368313161034.5344
+China,Activity,Pigs farming,35527084053.09123
+China,Activity,"Plastics, basic",289940787706.3286
+China,Activity,Post and telecommunications (64),693022839950.5197
+China,Activity,Poultry farming,35338010429.82618
+China,Activity,Precious metals production,25946554245.84861
+China,Activity,Private households with employed persons (95),69840235175.5957
+China,Activity,Processed rice,3365209750.962192
+China,Activity,Processing of Food products nec,389076841355.6028
+China,Activity,Processing of dairy products,133623734101.85031
+China,Activity,Processing of meat cattle,38689264140.30534
+China,Activity,Processing of meat pigs,47238564441.386795
+China,Activity,Processing of meat poultry,40269661735.4219
+China,Activity,Processing of nuclear fuel,5921985663.329862
+China,Activity,Processing vegetable oils and fats,33374936896.697586
+China,Activity,Production of electricity by Geothermal,846988442.5641503
+China,Activity,Production of electricity by biomass and waste,5248694692.945734
+China,Activity,Production of electricity by coal,76240821444.73955
+China,Activity,Production of electricity by gas,18582566297.177696
+China,Activity,Production of electricity by hydro,47466707699.860245
+China,Activity,Production of electricity by nuclear,94465966494.10806
+China,Activity,Production of electricity by other RES,1082611080.9052038
+China,Activity,Production of electricity by petroleum and other oil derivatives,2405474223.638407
+China,Activity,Production of electricity by solar photovoltaic,40523112038.15819
+China,Activity,Production of electricity by wind,36944505520.51943
+China,Activity,Production of meat products nec,92147630152.19345
+China,Activity,Production of offshore wind plants,0.0
+China,Activity,Production of onshore wind plants,0.0
+China,Activity,Production of photovoltaic plants,0.0
+China,Activity,Public administration and defence; compulsory social security (75),1141176296124.6152
+China,Activity,"Publishing, printing and reproduction of recorded media (22)",261782777929.45355
+China,Activity,Pulp,18087258753.164043
+China,Activity,Quarrying of sand and clay,24975035174.070312
+China,Activity,Quarrying of stone,21211036374.525562
+China,Activity,Raw milk,69285429005.32008
+China,Activity,Re-processing of ash into clinker,26725962217.099396
+China,Activity,Re-processing of secondary aluminium into new aluminium,31998158219.310112
+China,Activity,Re-processing of secondary construction material into aggregates,2402851096.1972876
+China,Activity,Re-processing of secondary copper into new copper,10159493679.919994
+China,Activity,Re-processing of secondary glass into new glass,10421163804.43844
+China,Activity,"Re-processing of secondary lead into new lead, zinc and tin",2944701046.7584457
+China,Activity,Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,1842751.7482180744
+China,Activity,Re-processing of secondary paper into new pulp,40351734829.37522
+China,Activity,Re-processing of secondary plastic into new plastic,71992725127.31543
+China,Activity,Re-processing of secondary preciuos metals into new preciuos metals,323128.948689976
+China,Activity,Re-processing of secondary steel into new steel,75424049299.95966
+China,Activity,Re-processing of secondary wood material into new wood material,38770895379.03577
+China,Activity,Real estate activities (70),1693927497624.622
+China,Activity,"Recreational, cultural and sporting activities (92)",443483040397.29517
+China,Activity,Recycling of bottles by direct reuse,8474757168.28739
+China,Activity,Recycling of waste and scrap,26393810993.78688
+China,Activity,Renting of machinery and equipment without operator and of personal and household goods (71),226609692984.53445
+China,Activity,Research and development (73),147232723958.27917
+China,Activity,Retail sale of automotive fuel,36943700171.99011
+China,Activity,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",389622015286.69434
+China,Activity,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",354503302271.1242
+China,Activity,Sea and coastal water transport,117014016398.97046
+China,Activity,Steam and hot water supply,25085522987.75946
+China,Activity,Sugar refining,16650251890.453
+China,Activity,Supporting and auxiliary transport activities; activities of travel agencies (63),686165859930.4011
+China,Activity,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",60433121303.27352
+China,Activity,Transmission of electricity,53663227374.71042
+China,Activity,Transport via pipelines,18633748622.858536
+China,Activity,Transport via railways,175490781921.01898
+China,Activity,"Waste water treatment, food",6711991891.598302
+China,Activity,"Waste water treatment, other",11527766862.458065
+China,Activity,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",816213853474.7837
+China,Activity,"Wool, silk-worm cocoons",151817172.15126023
+EU27,Activity,Activities auxiliary to financial intermediation (67),377200325780.7769
+EU27,Activity,Activities of membership organisation n.e.c. (91),156583681976.3296
+EU27,Activity,Air transport (62),155036488158.49042
+EU27,Activity,Aluminium production,32010512007.51611
+EU27,Activity,Animal products nec,8025628227.811723
+EU27,Activity,"Biogasification of food waste, incl. land application",0.0
+EU27,Activity,"Biogasification of paper, incl. land application",0.0
+EU27,Activity,"Biogasification of sewage slugde, incl. land application",17651912042.31293
+EU27,Activity,Casting of metals,30307410492.013634
+EU27,Activity,Cattle farming,42902989034.574974
+EU27,Activity,Chemicals nec,389263976785.33
+EU27,Activity,"Collection, purification and distribution of water (41)",30214133769.18506
+EU27,Activity,"Composting of food waste, incl. land application",221466980.0866949
+EU27,Activity,"Composting of paper and wood, incl. land application",5798312373.455362
+EU27,Activity,Computer and related activities (72),497509707940.5809
+EU27,Activity,Construction (45),794552076977.8344
+EU27,Activity,Copper production,16326979147.350056
+EU27,Activity,Cultivation of cereal grains nec,35921401510.59249
+EU27,Activity,Cultivation of crops nec,35382698749.18645
+EU27,Activity,Cultivation of oil seeds,15966959502.992304
+EU27,Activity,Cultivation of paddy rice,3495413720.8912544
+EU27,Activity,Cultivation of plant-based fibers,4630798484.560894
+EU27,Activity,"Cultivation of sugar cane, sugar beet",2543928432.3678193
+EU27,Activity,"Cultivation of vegetables, fruit, nuts",73194305567.23596
+EU27,Activity,Cultivation of wheat,8341315568.940792
+EU27,Activity,Distribution and trade of electricity,82510537742.02046
+EU27,Activity,Education (80),207333657286.46292
+EU27,Activity,Extra-territorial organizations and bodies,0.0
+EU27,Activity,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",104343449930.74207
+EU27,Activity,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",102762884053.63272
+EU27,Activity,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",14098064131.12971
+EU27,Activity,"Financial intermediation, except insurance and pension funding (65)",614860109386.9537
+EU27,Activity,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",4447642691.970892
+EU27,Activity,"Forestry, logging and related service activities (02)",54355216446.78006
+EU27,Activity,Health and social work (85),1062583643586.634
+EU27,Activity,Hotels and restaurants (55),853380695857.1664
+EU27,Activity,Incineration of waste: Food,1830923389.0323143
+EU27,Activity,Incineration of waste: Metals and Inert materials,2319439315.495545
+EU27,Activity,Incineration of waste: Oil/Hazardous waste,299648416.5396222
+EU27,Activity,Incineration of waste: Paper,3138981074.0093503
+EU27,Activity,Incineration of waste: Plastic,6280748765.637857
+EU27,Activity,Incineration of waste: Textiles,888907717.156718
+EU27,Activity,Incineration of waste: Wood,1154507720.7938442
+EU27,Activity,Inland water transport,5118914255.540728
+EU27,Activity,"Insurance and pension funding, except compulsory social security (66)",471519008691.81555
+EU27,Activity,Landfill of waste: Food,4643361936.461075
+EU27,Activity,Landfill of waste: Inert/metal/hazardous,7202357795.798014
+EU27,Activity,Landfill of waste: Paper,5578649056.330395
+EU27,Activity,Landfill of waste: Plastic,4237490818.195128
+EU27,Activity,Landfill of waste: Textiles,1478455597.4780722
+EU27,Activity,Landfill of waste: Wood,1882795316.080726
+EU27,Activity,"Lead, zinc and tin production",869461244.9332585
+EU27,Activity,Manufacture of LFP batteries,60936299999.99999
+EU27,Activity,Manufacture of NCA batteries,60936299999.99999
+EU27,Activity,Manufacture of NMC batteries,60936299999.99999
+EU27,Activity,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,84815389783.1928
+EU27,Activity,Manufacture of beverages,80732238526.45859
+EU27,Activity,"Manufacture of bricks, tiles and construction products, in baked clay",6294362391.299646
+EU27,Activity,"Manufacture of cement, lime and plaster",50494643915.04637
+EU27,Activity,Manufacture of ceramic goods,3475653635.3741674
+EU27,Activity,Manufacture of coke oven products,252550194.53208745
+EU27,Activity,Manufacture of electrical machinery and apparatus n.e.c. (31),102560270983.59624
+EU27,Activity,"Manufacture of fabricated metal products, except machinery and equipment (28)",258690541228.35577
+EU27,Activity,Manufacture of fish products,9821737455.07446
+EU27,Activity,Manufacture of furniture; manufacturing n.e.c. (36),170769484287.27472
+EU27,Activity,Manufacture of gas; distribution of gaseous fuels through mains,64763133561.76572
+EU27,Activity,Manufacture of glass and glass products,25973753429.70536
+EU27,Activity,Manufacture of machinery and equipment n.e.c. (29),396655399049.0231
+EU27,Activity,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",188220912970.53973
+EU27,Activity,"Manufacture of motor vehicles, trailers and semi-trailers (34)",485189560341.4791
+EU27,Activity,Manufacture of office machinery and computers (30),87372548260.88625
+EU27,Activity,Manufacture of other non-metallic mineral products n.e.c.,15960430506.912502
+EU27,Activity,Manufacture of other transport equipment (35),179000879365.3308
+EU27,Activity,"Manufacture of radio, television and communication equipment and apparatus (32)",238899191520.67435
+EU27,Activity,Manufacture of rubber and plastic products (25),178714530903.5487
+EU27,Activity,Manufacture of textiles (17),87377976770.86594
+EU27,Activity,Manufacture of tobacco products (16),48390422042.82079
+EU27,Activity,Manufacture of wearing apparel; dressing and dyeing of fur (18),37448567406.811165
+EU27,Activity,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",82269994347.37354
+EU27,Activity,"Manure treatment (biogas), storage and land application",0.0
+EU27,Activity,"Manure treatment (conventional), storage and land application",0.0
+EU27,Activity,Meat animals nec,136214197.00133175
+EU27,Activity,Mining of aluminium ores and concentrates,88122214.39520708
+EU27,Activity,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",4283119877.3555603
+EU27,Activity,Mining of coal and lignite; extraction of peat (10),19557458023.870796
+EU27,Activity,Mining of copper ores and concentrates,3913574631.653541
+EU27,Activity,Mining of iron ores,11071880083.542694
+EU27,Activity,"Mining of lead, zinc and tin ores and concentrates",599217778.7119038
+EU27,Activity,Mining of nickel ores and concentrates,0.0
+EU27,Activity,Mining of other non-ferrous metal ores and concentrates,197864321.97574157
+EU27,Activity,Mining of precious metal ores and concentrates,4615470107.889062
+EU27,Activity,Mining of uranium and thorium ores (12),970758692.3176639
+EU27,Activity,N-fertiliser,213341175.32055444
+EU27,Activity,Other business activities (74),1776852773773.228
+EU27,Activity,Other land transport,301850037288.7714
+EU27,Activity,Other non-ferrous metal production,3578065210.091282
+EU27,Activity,Other service activities (93),163917064653.77457
+EU27,Activity,P- and other fertiliser,11648838520.64184
+EU27,Activity,Paper,157847087379.28598
+EU27,Activity,Petroleum Refinery,301214225116.2308
+EU27,Activity,Pigs farming,17122599004.989677
+EU27,Activity,"Plastics, basic",46788091329.61992
+EU27,Activity,Post and telecommunications (64),905200408464.9219
+EU27,Activity,Poultry farming,28046149318.194023
+EU27,Activity,Precious metals production,11005324086.214823
+EU27,Activity,Private households with employed persons (95),17296329454.491127
+EU27,Activity,Processed rice,1158527358.9194932
+EU27,Activity,Processing of Food products nec,270776646374.21112
+EU27,Activity,Processing of dairy products,71990529922.32396
+EU27,Activity,Processing of meat cattle,44927824501.85328
+EU27,Activity,Processing of meat pigs,34739984116.45124
+EU27,Activity,Processing of meat poultry,43169507502.84043
+EU27,Activity,Processing of nuclear fuel,200226285.91721508
+EU27,Activity,Processing vegetable oils and fats,15014440714.26865
+EU27,Activity,Production of electricity by Geothermal,3160778373.697075
+EU27,Activity,Production of electricity by biomass and waste,14929045263.360554
+EU27,Activity,Production of electricity by coal,2451033525.86723
+EU27,Activity,Production of electricity by gas,3467399728.368184
+EU27,Activity,Production of electricity by hydro,13088598871.899921
+EU27,Activity,Production of electricity by nuclear,41143026036.38164
+EU27,Activity,Production of electricity by other RES,1076960766.2057865
+EU27,Activity,Production of electricity by petroleum and other oil derivatives,707905522.2707707
+EU27,Activity,Production of electricity by solar photovoltaic,31955302002.529747
+EU27,Activity,Production of electricity by wind,78111044852.2754
+EU27,Activity,Production of meat products nec,22443475951.081223
+EU27,Activity,Production of offshore wind plants,0.0
+EU27,Activity,Production of onshore wind plants,0.0
+EU27,Activity,Production of photovoltaic plants,0.0
+EU27,Activity,Public administration and defence; compulsory social security (75),2682933886354.694
+EU27,Activity,"Publishing, printing and reproduction of recorded media (22)",168852162787.7225
+EU27,Activity,Pulp,6650781243.053436
+EU27,Activity,Quarrying of sand and clay,13393638530.755596
+EU27,Activity,Quarrying of stone,16123538064.068457
+EU27,Activity,Raw milk,28490409495.796066
+EU27,Activity,Re-processing of ash into clinker,0.0
+EU27,Activity,Re-processing of secondary aluminium into new aluminium,0.0
+EU27,Activity,Re-processing of secondary construction material into aggregates,0.0
+EU27,Activity,Re-processing of secondary copper into new copper,0.0
+EU27,Activity,Re-processing of secondary glass into new glass,0.0
+EU27,Activity,"Re-processing of secondary lead into new lead, zinc and tin",0.0
+EU27,Activity,Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,0.0
+EU27,Activity,Re-processing of secondary paper into new pulp,0.0
+EU27,Activity,Re-processing of secondary plastic into new plastic,0.0
+EU27,Activity,Re-processing of secondary preciuos metals into new preciuos metals,0.0
+EU27,Activity,Re-processing of secondary steel into new steel,0.0
+EU27,Activity,Re-processing of secondary wood material into new wood material,0.0
+EU27,Activity,Real estate activities (70),1849567290519.7168
+EU27,Activity,"Recreational, cultural and sporting activities (92)",305325153790.5765
+EU27,Activity,Recycling of bottles by direct reuse,0.0
+EU27,Activity,Recycling of waste and scrap,5958519304.015215
+EU27,Activity,Renting of machinery and equipment without operator and of personal and household goods (71),278829762133.6221
+EU27,Activity,Research and development (73),116516189830.18805
+EU27,Activity,Retail sale of automotive fuel,913720190.4866226
+EU27,Activity,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",80815157744.27777
+EU27,Activity,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",412437174943.11896
+EU27,Activity,Sea and coastal water transport,17862408039.407227
+EU27,Activity,Steam and hot water supply,763380035.2275171
+EU27,Activity,Sugar refining,8134356963.436218
+EU27,Activity,Supporting and auxiliary transport activities; activities of travel agencies (63),172921064067.73926
+EU27,Activity,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",7610150671.616605
+EU27,Activity,Transmission of electricity,23908688603.48201
+EU27,Activity,Transport via pipelines,2796232162.93579
+EU27,Activity,Transport via railways,34331731242.330162
+EU27,Activity,"Waste water treatment, food",16683961922.757866
+EU27,Activity,"Waste water treatment, other",4812141538.205971
+EU27,Activity,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",468283514829.65564
+EU27,Activity,"Wool, silk-worm cocoons",17271674.614053264
+RoW,Activity,Activities auxiliary to financial intermediation (67),403389702899.34045
+RoW,Activity,Activities of membership organisation n.e.c. (91),201752007330.2931
+RoW,Activity,Air transport (62),267804451838.8056
+RoW,Activity,Aluminium production,112061616447.15938
+RoW,Activity,Animal products nec,53884448680.46316
+RoW,Activity,"Biogasification of food waste, incl. land application",3071729042.146532
+RoW,Activity,"Biogasification of paper, incl. land application",479384271.7895664
+RoW,Activity,"Biogasification of sewage slugde, incl. land application",1721250841.1136687
+RoW,Activity,Casting of metals,72792226902.569
+RoW,Activity,Cattle farming,128812298771.94797
+RoW,Activity,Chemicals nec,1202275493224.006
+RoW,Activity,"Collection, purification and distribution of water (41)",116525950006.43274
+RoW,Activity,"Composting of food waste, incl. land application",5629977584.4748955
+RoW,Activity,"Composting of paper and wood, incl. land application",1353360916.196809
+RoW,Activity,Computer and related activities (72),611020113468.4948
+RoW,Activity,Construction (45),3507605457384.8027
+RoW,Activity,Copper production,112059881877.8367
+RoW,Activity,Cultivation of cereal grains nec,157579642461.6432
+RoW,Activity,Cultivation of crops nec,269011163391.28934
+RoW,Activity,Cultivation of oil seeds,83763483917.81662
+RoW,Activity,Cultivation of paddy rice,160240646730.3523
+RoW,Activity,Cultivation of plant-based fibers,38144888790.057945
+RoW,Activity,"Cultivation of sugar cane, sugar beet",50736163135.37883
+RoW,Activity,"Cultivation of vegetables, fruit, nuts",423699875514.60596
+RoW,Activity,Cultivation of wheat,111872057070.07657
+RoW,Activity,Distribution and trade of electricity,238253551075.2346
+RoW,Activity,Education (80),1073394143368.2977
+RoW,Activity,Extra-territorial organizations and bodies,0.0
+RoW,Activity,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",1273851488175.822
+RoW,Activity,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",283334717608.656
+RoW,Activity,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",15664009803.697933
+RoW,Activity,"Financial intermediation, except insurance and pension funding (65)",1004080095417.5228
+RoW,Activity,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",151839434845.23578
+RoW,Activity,"Forestry, logging and related service activities (02)",124402620941.64044
+RoW,Activity,Health and social work (85),1950879518378.7805
+RoW,Activity,Hotels and restaurants (55),1504726150322.9338
+RoW,Activity,Incineration of waste: Food,17491860633.377464
+RoW,Activity,Incineration of waste: Metals and Inert materials,4230216546.39001
+RoW,Activity,Incineration of waste: Oil/Hazardous waste,5280472496.464925
+RoW,Activity,Incineration of waste: Paper,17221418655.358574
+RoW,Activity,Incineration of waste: Plastic,4784360824.79299
+RoW,Activity,Incineration of waste: Textiles,4223767854.797217
+RoW,Activity,Incineration of waste: Wood,5027467051.934851
+RoW,Activity,Inland water transport,12399028942.380728
+RoW,Activity,"Insurance and pension funding, except compulsory social security (66)",536783222759.2077
+RoW,Activity,Landfill of waste: Food,92857562642.40366
+RoW,Activity,Landfill of waste: Inert/metal/hazardous,35438613409.6372
+RoW,Activity,Landfill of waste: Paper,41192187404.1486
+RoW,Activity,Landfill of waste: Plastic,31665663039.625916
+RoW,Activity,Landfill of waste: Textiles,13735817775.279503
+RoW,Activity,Landfill of waste: Wood,16549061691.797384
+RoW,Activity,"Lead, zinc and tin production",22803406824.322357
+RoW,Activity,Manufacture of LFP batteries,0.0
+RoW,Activity,Manufacture of NCA batteries,0.0
+RoW,Activity,Manufacture of NMC batteries,0.0
+RoW,Activity,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,698381279361.9344
+RoW,Activity,Manufacture of beverages,256823532935.6103
+RoW,Activity,"Manufacture of bricks, tiles and construction products, in baked clay",9354293450.576134
+RoW,Activity,"Manufacture of cement, lime and plaster",105986783376.74355
+RoW,Activity,Manufacture of ceramic goods,64097917685.49562
+RoW,Activity,Manufacture of coke oven products,23837182569.304916
+RoW,Activity,Manufacture of electrical machinery and apparatus n.e.c. (31),561182947635.1459
+RoW,Activity,"Manufacture of fabricated metal products, except machinery and equipment (28)",709945125339.3368
+RoW,Activity,Manufacture of fish products,196708025491.00763
+RoW,Activity,Manufacture of furniture; manufacturing n.e.c. (36),336430600889.13
+RoW,Activity,Manufacture of gas; distribution of gaseous fuels through mains,134469824966.68768
+RoW,Activity,Manufacture of glass and glass products,83701903273.35919
+RoW,Activity,Manufacture of machinery and equipment n.e.c. (29),1020118024900.8693
+RoW,Activity,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",278590103637.9054
+RoW,Activity,"Manufacture of motor vehicles, trailers and semi-trailers (34)",1201950053322.7083
+RoW,Activity,Manufacture of office machinery and computers (30),172467653204.3923
+RoW,Activity,Manufacture of other non-metallic mineral products n.e.c.,126153159582.03062
+RoW,Activity,Manufacture of other transport equipment (35),283743640808.68384
+RoW,Activity,"Manufacture of radio, television and communication equipment and apparatus (32)",734236363281.0874
+RoW,Activity,Manufacture of rubber and plastic products (25),483636510250.53125
+RoW,Activity,Manufacture of textiles (17),353719218134.4698
+RoW,Activity,Manufacture of tobacco products (16),88539874508.70535
+RoW,Activity,Manufacture of wearing apparel; dressing and dyeing of fur (18),237164253117.71997
+RoW,Activity,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",181904212873.346
+RoW,Activity,"Manure treatment (biogas), storage and land application",0.0
+RoW,Activity,"Manure treatment (conventional), storage and land application",0.0
+RoW,Activity,Meat animals nec,19500490969.721878
+RoW,Activity,Mining of aluminium ores and concentrates,8157485187.4577675
+RoW,Activity,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",32599668522.13134
+RoW,Activity,Mining of coal and lignite; extraction of peat (10),141406947834.961
+RoW,Activity,Mining of copper ores and concentrates,87263673578.88773
+RoW,Activity,Mining of iron ores,109430089137.1372
+RoW,Activity,"Mining of lead, zinc and tin ores and concentrates",26142646355.797043
+RoW,Activity,Mining of nickel ores and concentrates,28105491540.84416
+RoW,Activity,Mining of other non-ferrous metal ores and concentrates,42823563132.05049
+RoW,Activity,Mining of precious metal ores and concentrates,96709300996.12875
+RoW,Activity,Mining of uranium and thorium ores (12),13071092287.733004
+RoW,Activity,N-fertiliser,3731100356.519981
+RoW,Activity,Other business activities (74),1544930581439.962
+RoW,Activity,Other land transport,1103193563687.2769
+RoW,Activity,Other non-ferrous metal production,73049445803.92049
+RoW,Activity,Other service activities (93),386413126914.58594
+RoW,Activity,P- and other fertiliser,71702412957.78902
+RoW,Activity,Paper,259348044066.765
+RoW,Activity,Petroleum Refinery,1007289348830.9825
+RoW,Activity,Pigs farming,102525867840.088
+RoW,Activity,"Plastics, basic",116217562571.49855
+RoW,Activity,Post and telecommunications (64),956577536348.498
+RoW,Activity,Poultry farming,135847386072.37692
+RoW,Activity,Precious metals production,112720669115.23776
+RoW,Activity,Private households with employed persons (95),92002948829.80945
+RoW,Activity,Processed rice,84866067447.13278
+RoW,Activity,Processing of Food products nec,726092364325.9451
+RoW,Activity,Processing of dairy products,136666074782.13496
+RoW,Activity,Processing of meat cattle,75809593368.00122
+RoW,Activity,Processing of meat pigs,46500721331.44817
+RoW,Activity,Processing of meat poultry,49170366402.87668
+RoW,Activity,Processing of nuclear fuel,7496204119.748538
+RoW,Activity,Processing vegetable oils and fats,144959827958.7801
+RoW,Activity,Production of electricity by Geothermal,10489503356.76635
+RoW,Activity,Production of electricity by biomass and waste,28055254391.077385
+RoW,Activity,Production of electricity by coal,91301562373.76572
+RoW,Activity,Production of electricity by gas,72688043819.96227
+RoW,Activity,Production of electricity by hydro,51665431655.132416
+RoW,Activity,Production of electricity by nuclear,75812666291.91122
+RoW,Activity,Production of electricity by other RES,6450598907.60031
+RoW,Activity,Production of electricity by petroleum and other oil derivatives,38989820220.9893
+RoW,Activity,Production of electricity by solar photovoltaic,94682721662.12566
+RoW,Activity,Production of electricity by wind,89211101088.5442
+RoW,Activity,Production of meat products nec,58669345881.796036
+RoW,Activity,Production of offshore wind plants,0.0
+RoW,Activity,Production of onshore wind plants,0.0
+RoW,Activity,Production of photovoltaic plants,0.0
+RoW,Activity,Public administration and defence; compulsory social security (75),2243298552524.4897
+RoW,Activity,"Publishing, printing and reproduction of recorded media (22)",324261730774.3033
+RoW,Activity,Pulp,38438592811.70648
+RoW,Activity,Quarrying of sand and clay,92041999117.59763
+RoW,Activity,Quarrying of stone,60015162041.63869
+RoW,Activity,Raw milk,180833903223.59918
+RoW,Activity,Re-processing of ash into clinker,1108425701.5121953
+RoW,Activity,Re-processing of secondary aluminium into new aluminium,2813689557.418397
+RoW,Activity,Re-processing of secondary construction material into aggregates,3234138.777096109
+RoW,Activity,Re-processing of secondary copper into new copper,1622219861.023561
+RoW,Activity,Re-processing of secondary glass into new glass,875961537.0931463
+RoW,Activity,"Re-processing of secondary lead into new lead, zinc and tin",750509372.8198824
+RoW,Activity,Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,2308447542.5630493
+RoW,Activity,Re-processing of secondary paper into new pulp,2943038976.9780893
+RoW,Activity,Re-processing of secondary plastic into new plastic,472038131.72792953
+RoW,Activity,Re-processing of secondary preciuos metals into new preciuos metals,74448.02840132322
+RoW,Activity,Re-processing of secondary steel into new steel,47361308304.63168
+RoW,Activity,Re-processing of secondary wood material into new wood material,13335983867.455662
+RoW,Activity,Real estate activities (70),1865185597808.9426
+RoW,Activity,"Recreational, cultural and sporting activities (92)",539837033705.9208
+RoW,Activity,Recycling of bottles by direct reuse,0.0
+RoW,Activity,Recycling of waste and scrap,31492696918.297367
+RoW,Activity,Renting of machinery and equipment without operator and of personal and household goods (71),363516285729.79236
+RoW,Activity,Research and development (73),391344820840.47107
+RoW,Activity,Retail sale of automotive fuel,22790128143.521873
+RoW,Activity,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",986225291749.0417
+RoW,Activity,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",658236256216.4839
+RoW,Activity,Sea and coastal water transport,228096767780.82028
+RoW,Activity,Steam and hot water supply,13055172573.289455
+RoW,Activity,Sugar refining,68326858164.369095
+RoW,Activity,Supporting and auxiliary transport activities; activities of travel agencies (63),733034975381.2239
+RoW,Activity,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",91657422986.97668
+RoW,Activity,Transmission of electricity,66116649088.063835
+RoW,Activity,Transport via pipelines,40548502414.80992
+RoW,Activity,Transport via railways,293353579443.5611
+RoW,Activity,"Waste water treatment, food",54500864762.677765
+RoW,Activity,"Waste water treatment, other",97235052503.93436
+RoW,Activity,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",1427287972037.6882
+RoW,Activity,"Wool, silk-worm cocoons",3979382858.237753
+USA,Activity,Activities auxiliary to financial intermediation (67),65075040089.79585
+USA,Activity,Activities of membership organisation n.e.c. (91),71982763900.80286
+USA,Activity,Air transport (62),61917827393.007675
+USA,Activity,Aluminium production,128463079762.52008
+USA,Activity,Animal products nec,27061457048.001007
+USA,Activity,"Biogasification of food waste, incl. land application",0.0
+USA,Activity,"Biogasification of paper, incl. land application",0.0
+USA,Activity,"Biogasification of sewage slugde, incl. land application",0.0
+USA,Activity,Casting of metals,50242596910.657104
+USA,Activity,Cattle farming,16104980065.829697
+USA,Activity,Chemicals nec,620976846173.1533
+USA,Activity,"Collection, purification and distribution of water (41)",16186673082.441074
+USA,Activity,"Composting of food waste, incl. land application",759069583.1491201
+USA,Activity,"Composting of paper and wood, incl. land application",184288831.53888553
+USA,Activity,Computer and related activities (72),225349559215.36606
+USA,Activity,Construction (45),1499902435816.7214
+USA,Activity,Copper production,83818495379.31204
+USA,Activity,Cultivation of cereal grains nec,40137359871.33815
+USA,Activity,Cultivation of crops nec,52255379811.919495
+USA,Activity,Cultivation of oil seeds,20765089055.072914
+USA,Activity,Cultivation of paddy rice,29821848139.14911
+USA,Activity,Cultivation of plant-based fibers,22777328882.092865
+USA,Activity,"Cultivation of sugar cane, sugar beet",12969406164.220308
+USA,Activity,"Cultivation of vegetables, fruit, nuts",192703368557.8391
+USA,Activity,Cultivation of wheat,17559855000.456123
+USA,Activity,Distribution and trade of electricity,169515965624.60684
+USA,Activity,Education (80),294546460059.5922
+USA,Activity,Extra-territorial organizations and bodies,0.0
+USA,Activity,"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",128504856367.70023
+USA,Activity,"Extraction of natural gas and services related to natural gas extraction, excluding surveying",7900300265.042062
+USA,Activity,"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",0.0
+USA,Activity,"Financial intermediation, except insurance and pension funding (65)",254707907984.8463
+USA,Activity,"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",141815912327.83185
+USA,Activity,"Forestry, logging and related service activities (02)",39067707216.31868
+USA,Activity,Health and social work (85),314690883817.5522
+USA,Activity,Hotels and restaurants (55),390657360395.7049
+USA,Activity,Incineration of waste: Food,3371446271.9535074
+USA,Activity,Incineration of waste: Metals and Inert materials,485277974.2430105
+USA,Activity,Incineration of waste: Oil/Hazardous waste,867597795.6452357
+USA,Activity,Incineration of waste: Paper,3357342811.908604
+USA,Activity,Incineration of waste: Plastic,774202239.6906396
+USA,Activity,Incineration of waste: Textiles,784456437.7471962
+USA,Activity,Incineration of waste: Wood,899113263.9028071
+USA,Activity,Inland water transport,3335994519.8062444
+USA,Activity,"Insurance and pension funding, except compulsory social security (66)",123265419834.46844
+USA,Activity,Landfill of waste: Food,10532757754.175842
+USA,Activity,Landfill of waste: Inert/metal/hazardous,3576044645.3647346
+USA,Activity,Landfill of waste: Paper,4486399442.590004
+USA,Activity,Landfill of waste: Plastic,3540676493.800065
+USA,Activity,Landfill of waste: Textiles,1501585327.253703
+USA,Activity,Landfill of waste: Wood,1786216898.4104152
+USA,Activity,"Lead, zinc and tin production",34317229841.505898
+USA,Activity,Manufacture of LFP batteries,0.0
+USA,Activity,Manufacture of NCA batteries,0.0
+USA,Activity,Manufacture of NMC batteries,0.0
+USA,Activity,Manufacture of basic iron and steel and of ferro-alloys and first products thereof,707483913265.6198
+USA,Activity,Manufacture of beverages,31989063575.61022
+USA,Activity,"Manufacture of bricks, tiles and construction products, in baked clay",5213304258.532203
+USA,Activity,"Manufacture of cement, lime and plaster",63597384853.97575
+USA,Activity,Manufacture of ceramic goods,155954995686.93515
+USA,Activity,Manufacture of coke oven products,43959414966.06757
+USA,Activity,Manufacture of electrical machinery and apparatus n.e.c. (31),522442986426.6482
+USA,Activity,"Manufacture of fabricated metal products, except machinery and equipment (28)",336362860721.37213
+USA,Activity,Manufacture of fish products,211526430351.84875
+USA,Activity,Manufacture of furniture; manufacturing n.e.c. (36),323270241233.8888
+USA,Activity,Manufacture of gas; distribution of gaseous fuels through mains,23533604329.1644
+USA,Activity,Manufacture of glass and glass products,154901910661.8707
+USA,Activity,Manufacture of machinery and equipment n.e.c. (29),768029389002.2633
+USA,Activity,"Manufacture of medical, precision and optical instruments, watches and clocks (33)",87835621350.97917
+USA,Activity,"Manufacture of motor vehicles, trailers and semi-trailers (34)",350572921588.37305
+USA,Activity,Manufacture of office machinery and computers (30),333607141990.3032
+USA,Activity,Manufacture of other non-metallic mineral products n.e.c.,107748248056.84741
+USA,Activity,Manufacture of other transport equipment (35),268740852064.56656
+USA,Activity,"Manufacture of radio, television and communication equipment and apparatus (32)",354696981422.42395
+USA,Activity,Manufacture of rubber and plastic products (25),428093250858.9652
+USA,Activity,Manufacture of textiles (17),455837902148.64484
+USA,Activity,Manufacture of tobacco products (16),10750858554.321499
+USA,Activity,Manufacture of wearing apparel; dressing and dyeing of fur (18),229545524238.96002
+USA,Activity,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",11336523516.487188
+USA,Activity,"Manure treatment (biogas), storage and land application",0.0
+USA,Activity,"Manure treatment (conventional), storage and land application",0.0
+USA,Activity,Meat animals nec,20051134971.298775
+USA,Activity,Mining of aluminium ores and concentrates,3228991381.2823606
+USA,Activity,"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",5589116067.775244
+USA,Activity,Mining of coal and lignite; extraction of peat (10),118785226635.83713
+USA,Activity,Mining of copper ores and concentrates,29732647018.305046
+USA,Activity,Mining of iron ores,8038197107.593576
+USA,Activity,"Mining of lead, zinc and tin ores and concentrates",4284539890.8549566
+USA,Activity,Mining of nickel ores and concentrates,5261611661.888662
+USA,Activity,Mining of other non-ferrous metal ores and concentrates,47462560295.3015
+USA,Activity,Mining of precious metal ores and concentrates,25783127724.128265
+USA,Activity,Mining of uranium and thorium ores (12),923990830.7208817
+USA,Activity,N-fertiliser,223976801.5731228
+USA,Activity,Other business activities (74),380590837083.5824
+USA,Activity,Other land transport,135823140732.54782
+USA,Activity,Other non-ferrous metal production,66354858930.36388
+USA,Activity,Other service activities (93),147438234121.7697
+USA,Activity,P- and other fertiliser,39160997434.860596
+USA,Activity,Paper,133458933200.35799
+USA,Activity,Petroleum Refinery,363110345178.294
+USA,Activity,Pigs farming,57754270241.15393
+USA,Activity,"Plastics, basic",75868358293.35297
+USA,Activity,Post and telecommunications (64),12287642939.576353
+USA,Activity,Poultry farming,43829114797.6642
+USA,Activity,Precious metals production,44364948996.49411
+USA,Activity,Private households with employed persons (95),25987144937.066494
+USA,Activity,Processed rice,21286392115.933994
+USA,Activity,Processing of Food products nec,393453769950.19794
+USA,Activity,Processing of dairy products,9222385079.389606
+USA,Activity,Processing of meat cattle,2732055222.232362
+USA,Activity,Processing of meat pigs,10571320788.811693
+USA,Activity,Processing of meat poultry,9647210920.18421
+USA,Activity,Processing of nuclear fuel,48481204.67927089
+USA,Activity,Processing vegetable oils and fats,26147641384.68122
+USA,Activity,Production of electricity by Geothermal,9851149889.174366
+USA,Activity,Production of electricity by biomass and waste,39853615947.601974
+USA,Activity,Production of electricity by coal,0.0
+USA,Activity,Production of electricity by gas,83338363842.96295
+USA,Activity,Production of electricity by hydro,13634483577.104557
+USA,Activity,Production of electricity by nuclear,9959667983.463057
+USA,Activity,Production of electricity by other RES,4658370053.938614
+USA,Activity,Production of electricity by petroleum and other oil derivatives,10108049589.235664
+USA,Activity,Production of electricity by solar photovoltaic,74773475479.58644
+USA,Activity,Production of electricity by wind,102551909528.02167
+USA,Activity,Production of meat products nec,38289342851.74584
+USA,Activity,Production of offshore wind plants,0.0
+USA,Activity,Production of onshore wind plants,0.0
+USA,Activity,Production of photovoltaic plants,0.0
+USA,Activity,Public administration and defence; compulsory social security (75),440811931099.2685
+USA,Activity,"Publishing, printing and reproduction of recorded media (22)",132498256074.59586
+USA,Activity,Pulp,2344834305.295206
+USA,Activity,Quarrying of sand and clay,56399347894.26897
+USA,Activity,Quarrying of stone,19167294097.656265
+USA,Activity,Raw milk,16172971053.657692
+USA,Activity,Re-processing of ash into clinker,0.0
+USA,Activity,Re-processing of secondary aluminium into new aluminium,0.0
+USA,Activity,Re-processing of secondary construction material into aggregates,0.0
+USA,Activity,Re-processing of secondary copper into new copper,0.0
+USA,Activity,Re-processing of secondary glass into new glass,0.0
+USA,Activity,"Re-processing of secondary lead into new lead, zinc and tin",0.0
+USA,Activity,Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,0.0
+USA,Activity,Re-processing of secondary paper into new pulp,139786.98882193275
+USA,Activity,Re-processing of secondary plastic into new plastic,0.0
+USA,Activity,Re-processing of secondary preciuos metals into new preciuos metals,0.0
+USA,Activity,Re-processing of secondary steel into new steel,0.0
+USA,Activity,Re-processing of secondary wood material into new wood material,0.0
+USA,Activity,Real estate activities (70),285476402247.2441
+USA,Activity,"Recreational, cultural and sporting activities (92)",84973059846.463
+USA,Activity,Recycling of bottles by direct reuse,0.0
+USA,Activity,Recycling of waste and scrap,32569801412.58306
+USA,Activity,Renting of machinery and equipment without operator and of personal and household goods (71),32635767523.70341
+USA,Activity,Research and development (73),40967648747.23518
+USA,Activity,Retail sale of automotive fuel,3983553316.7764597
+USA,Activity,"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",140164821191.397
+USA,Activity,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",69211810904.49883
+USA,Activity,Sea and coastal water transport,55832919762.270645
+USA,Activity,Steam and hot water supply,7040363376.357632
+USA,Activity,Sugar refining,4613812119.233826
+USA,Activity,Supporting and auxiliary transport activities; activities of travel agencies (63),233114762494.72522
+USA,Activity,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",107617978479.61229
+USA,Activity,Transmission of electricity,59827650495.07097
+USA,Activity,Transport via pipelines,4922253971.2576275
+USA,Activity,Transport via railways,44081509768.069855
+USA,Activity,"Waste water treatment, food",12395275535.021584
+USA,Activity,"Waste water treatment, other",22286261211.82657
+USA,Activity,"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",214469492039.06677
+USA,Activity,"Wool, silk-worm cocoons",3783805449.6531386
+China,Commodity,Additives/Blending Components,267429953.88625157
+China,Commodity,Air transport services (62),178720817610.88043
+China,Commodity,Aluminium and aluminium products,63869135270.43925
+China,Commodity,Aluminium ores and concentrates,234615469.1232369
+China,Commodity,Animal products nec,1554047080.500538
+China,Commodity,Anthracite,1868452487.4259183
+China,Commodity,"Ash for treatment, Re-processing of ash into clinker",0.0
+China,Commodity,Aviation Gasoline,91132478.58756647
+China,Commodity,BKB/Peat Briquettes,1406189098.1181827
+China,Commodity,Basic iron and steel and of ferro-alloys and first products thereof,197107026526.0436
+China,Commodity,Beverages,122612758553.78448
+China,Commodity,Biodiesels,1614678662.457591
+China,Commodity,Biogas,2502670311.5342417
+China,Commodity,Biogasoline,789725215.7706424
+China,Commodity,Bitumen,3138796459.5742702
+China,Commodity,Blast Furnace Gas,1642377406.416554
+China,Commodity,"Bottles for treatment, Recycling of bottles by direct reuse",0.0
+China,Commodity,"Bricks, tiles and construction products, in baked clay",14275198286.009893
+China,Commodity,Cattle,25428818429.6675
+China,Commodity,"Cement, lime and plaster",126566285263.85762
+China,Commodity,Ceramic goods,27117604497.146633
+China,Commodity,Cereal grains nec,31404397641.1581
+China,Commodity,Charcoal,210901618.5289734
+China,Commodity,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",14422044200.802032
+China,Commodity,Chemicals nec,179435691455.93448
+China,Commodity,Coal Tar,227192820.58796793
+China,Commodity,Coke Oven Coke,4535810162.549737
+China,Commodity,Coke oven gas,509158302.21295357
+China,Commodity,Coking Coal,1732955303.9593337
+China,Commodity,"Collected and purified water, distribution services of water (41)",73260418101.11014
+China,Commodity,Computer and related services (72),456122530814.75745
+China,Commodity,Construction work (45),1924517508299.551
+China,Commodity,Copper ores and concentrates,6610016461.421072
+China,Commodity,Copper products,69697082468.22699
+China,Commodity,Crops nec,33327573486.63036
+China,Commodity,"Crude petroleum and services related to crude oil extraction, excluding surveying",51858023882.812805
+China,Commodity,Dairy products,141582702831.45746
+China,Commodity,Distribution and trade services of electricity,216152556296.7351
+China,Commodity,Distribution services of gaseous fuels through mains,153950897310.3423
+China,Commodity,Dysprosium,509835.0046379509
+China,Commodity,Education services (80),825540746632.167
+China,Commodity,Electrical machinery and apparatus n.e.c. (31),352774233196.28687
+China,Commodity,Electricity,286365700809.15
+China,Commodity,Ethane,55643047.14425524
+China,Commodity,Extra-territorial organizations and bodies,0.0
+China,Commodity,"Fabricated metal products, except machinery and equipment (28)",511886941453.9589
+China,Commodity,"Financial intermediation services, except insurance and pension funding services (65)",667977162840.6628
+China,Commodity,Fish and other fishing products; services incidental of fishing (05),16135370114.693205
+China,Commodity,Fish products,29997167504.049545
+China,Commodity,Food products nec,441042089208.7034
+China,Commodity,Food waste for treatment: biogasification and land application,2933196585.2583904
+China,Commodity,Food waste for treatment: composting and land application,21671204179.463753
+China,Commodity,Food waste for treatment: incineration,11800359223.848696
+China,Commodity,Food waste for treatment: landfill,14345621329.21257
+China,Commodity,Food waste for treatment: waste water treatment,8560412676.130594
+China,Commodity,Foundry work services,47997970324.46642
+China,Commodity,Furniture; other manufactured goods n.e.c. (36),238848574259.96127
+China,Commodity,Gas Coke,0.0
+China,Commodity,Gas Works Gas,191180832.4155324
+China,Commodity,Gas/Diesel Oil,138918940971.654
+China,Commodity,Gasoline Type Jet Fuel,19671687.22619717
+China,Commodity,Glass and glass products,38216069037.28528
+China,Commodity,Health and social work services (85),1337917109137.0293
+China,Commodity,Heavy Fuel Oil,18327346401.51567
+China,Commodity,Hotel and restaurant services (55),936514902102.219
+China,Commodity,Inert/metal/hazardous waste for treatment: landfill,17159618473.303032
+China,Commodity,Inland water transportation services,8829236832.952398
+China,Commodity,"Insurance and pension funding services, except compulsory social security services (66)",313526008483.34937
+China,Commodity,Intert/metal waste for treatment: incineration,21893851710.9924
+China,Commodity,Iron ores,658191050.7100266
+China,Commodity,Kerosene,7626717447.897988
+China,Commodity,Kerosene Type Jet Fuel,20124412543.414143
+China,Commodity,LFP batteries,0.0
+China,Commodity,"Lead, zinc and tin and products thereof",10993084436.35222
+China,Commodity,"Lead, zinc and tin ores and concentrates",1508242001.9655545
+China,Commodity,Leather and leather products (19),61744637356.24634
+China,Commodity,Lignite/Brown Coal,5538390342.902032
+China,Commodity,Liquefied Petroleum Gases (LPG),11048543737.678782
+China,Commodity,Lubricants,5960835774.509896
+China,Commodity,Machinery and equipment n.e.c. (29),682090140351.3673
+China,Commodity,Manure (biogas treatment),0.0
+China,Commodity,Manure (conventional treatment),0.0
+China,Commodity,Meat animals nec,14500261433.056437
+China,Commodity,Meat products nec,103085039884.24768
+China,Commodity,"Medical, precision and optical instruments, watches and clocks (33)",213995749799.0181
+China,Commodity,Membership organisation services n.e.c. (91),210811310774.04666
+China,Commodity,Motor Gasoline,153677271005.33307
+China,Commodity,"Motor vehicles, trailers and semi-trailers (34)",681156847232.8009
+China,Commodity,N-fertiliser,891315624.1729136
+China,Commodity,NCA batteries,0.0
+China,Commodity,NMC batteries,0.0
+China,Commodity,Naphtha,10563484381.46524
+China,Commodity,Natural Gas Liquids,2518478772.8705816
+China,Commodity,"Natural gas and services related to natural gas extraction, excluding surveying",18178197578.97636
+China,Commodity,Neodymium,2864015.3081719633
+China,Commodity,Nickel ores and concentrates,514438884.8133535
+China,Commodity,Non-specified Petroleum Products,2119154043.1076784
+China,Commodity,Nuclear fuel,5956297156.459824
+China,Commodity,Office machinery and computers (30),77782288883.68216
+China,Commodity,Offshore wind plants,6837523091.926335
+China,Commodity,Oil seeds,24163867162.98625
+China,Commodity,Oil/hazardous waste for treatment: incineration,14691029418.794558
+China,Commodity,Onshore wind plants,15790214486.23508
+China,Commodity,Other Bituminous Coal,13408435234.390804
+China,Commodity,Other Hydrocarbons,292920647.90992004
+China,Commodity,Other Liquid Biofuels,432882571.3010911
+China,Commodity,Other business services (74),1894103371163.851
+China,Commodity,Other land transportation services,579937181145.2852
+China,Commodity,Other non-ferrous metal ores and concentrates,1418239858.1611648
+China,Commodity,Other non-ferrous metal products,11296289129.910908
+China,Commodity,Other non-metallic mineral products,39694473561.75182
+China,Commodity,Other services (93),155183595801.28394
+China,Commodity,Other transport equipment (35),212314986468.25055
+China,Commodity,Other waste for treatment: waste water treatment,13589761462.93071
+China,Commodity,Oxygen Steel Furnace Gas,112813504.06715856
+China,Commodity,P- and other fertiliser,7159692048.643717
+China,Commodity,Paddy rice,1556391617.584106
+China,Commodity,Paper and paper products,120527308888.99529
+China,Commodity,Paper and wood waste for treatment: composting and land application,81863297.13310899
+China,Commodity,Paper for treatment: landfill,10290009269.48681
+China,Commodity,Paper waste for treatment: biogasification and land application,346957032.3648613
+China,Commodity,Paper waste for treatment: incineration,14224934538.46923
+China,Commodity,Paraffin Waxes,557533824.9457769
+China,Commodity,Patent Fuel,61258671.17649414
+China,Commodity,Peat,828171082.902221
+China,Commodity,Petroleum Coke,557555174.3312027
+China,Commodity,Photovoltaic plants,44875343120.00855
+China,Commodity,Pigs,34651516685.34479
+China,Commodity,Plant-based fibers,977522050.7446048
+China,Commodity,Plastic waste for treatment: incineration,11720491425.460093
+China,Commodity,Plastic waste for treatment: landfill,3112313595.839756
+China,Commodity,"Plastics, basic",319743127111.2603
+China,Commodity,Post and telecommunication services (64),646705985696.1233
+China,Commodity,Poultry,35342947396.675766
+China,Commodity,Precious metal ores and concentrates,461333643.41159785
+China,Commodity,Precious metals,29667152037.14115
+China,Commodity,Printed matter and recorded media (22),268274234052.25906
+China,Commodity,Private households with employed persons (95),81852552413.60437
+China,Commodity,Processed rice,2563965566.654345
+China,Commodity,"Products of forestry, logging and related services (02)",39545931736.974365
+China,Commodity,Products of meat cattle,32525101461.9963
+China,Commodity,Products of meat pigs,38686845021.11919
+China,Commodity,Products of meat poultry,56108949374.49369
+China,Commodity,Public administration and defence services; compulsory social security services (75),1098226082043.691
+China,Commodity,Pulp,59041953024.848175
+China,Commodity,"Radio, television and communication equipment and apparatus (32)",193744121514.22134
+China,Commodity,Railway transportation services,173250424311.74075
+China,Commodity,Raw milk,66472887787.425285
+China,Commodity,Raw silicon,0.0
+China,Commodity,Real estate services (70),1821778674312.6995
+China,Commodity,"Recreational, cultural and sporting services (92)",468763183041.4208
+China,Commodity,Refinery Feedstocks,7549337656.6180725
+China,Commodity,Refinery Gas,649317975.4142432
+China,Commodity,Renting services of machinery and equipment without operator and of personal and household goods (71),299855664155.94824
+China,Commodity,Research and development services (73),186071084185.45572
+China,Commodity,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",193414861160.6921
+China,Commodity,Retail trade services of motor fuel,34028475946.704166
+China,Commodity,Rubber and plastic products (25),283124447647.32806
+China,Commodity,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",354473944875.41046
+China,Commodity,Sand and clay,26702930211.583637
+China,Commodity,Sea and coastal water transportation services,106991867253.21323
+China,Commodity,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",0.0
+China,Commodity,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",0.0
+China,Commodity,"Secondary copper for treatment, Re-processing of secondary copper into new copper",0.0
+China,Commodity,"Secondary glass for treatment, Re-processing of secondary glass into new glass",0.0
+China,Commodity,"Secondary lead for treatment, Re-processing of secondary lead into new lead",0.0
+China,Commodity,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",0.0
+China,Commodity,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",0.0
+China,Commodity,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",0.0
+China,Commodity,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",0.0
+China,Commodity,Secondary raw materials,26247321213.763443
+China,Commodity,"Secondary steel for treatment, Re-processing of secondary steel into new steel",0.0
+China,Commodity,Services auxiliary to financial intermediation (67),199449948906.7213
+China,Commodity,Sewage sludge for treatment: biogasification and land application,14981361166.893208
+China,Commodity,Steam and hot water supply services,34930859286.42186
+China,Commodity,Stone,20796047149.109825
+China,Commodity,Sub-Bituminous Coal,116927951.07136218
+China,Commodity,Sugar,13575859255.834784
+China,Commodity,"Sugar cane, sugar beet",4452787706.339085
+China,Commodity,Supporting and auxiliary transport services; travel agency services (63),678492913076.2981
+China,Commodity,Textiles (17),123247176842.40868
+China,Commodity,Textiles waste for treatment: incineration,2677031304.251936
+China,Commodity,Textiles waste for treatment: landfill,1837479755.7642803
+China,Commodity,Tobacco products (16),22809506627.947308
+China,Commodity,Transmission services of electricity,49271362577.8814
+China,Commodity,Transportation services via pipelines,14752808250.633411
+China,Commodity,Uranium and thorium ores (12),488015600.63747895
+China,Commodity,"Vegetables, fruit, nuts",98576653504.51498
+China,Commodity,Wearing apparel; furs (18),116079807630.70042
+China,Commodity,Wheat,30698329119.199543
+China,Commodity,White Spirit & SBP,2209613163.102532
+China,Commodity,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",597644449521.5193
+China,Commodity,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),146688174900.04138
+China,Commodity,"Wood material for treatment, Re-processing of secondary wood material into new wood material",0.0
+China,Commodity,Wood waste for treatment: incineration,6127667523.1286125
+China,Commodity,Wood waste for treatment: landfill,3319595406.672842
+China,Commodity,"Wool, silk-worm cocoons",154451590.75960317
+China,Commodity,products of Vegetable oils and fats,30035128024.524113
+EU27,Commodity,Additives/Blending Components,101062684.99299449
+EU27,Commodity,Air transport services (62),156184855213.91492
+EU27,Commodity,Aluminium and aluminium products,31397881832.271397
+EU27,Commodity,Aluminium ores and concentrates,118063825.6482497
+EU27,Commodity,Animal products nec,8200205775.652506
+EU27,Commodity,Anthracite,246899614.7056489
+EU27,Commodity,"Ash for treatment, Re-processing of ash into clinker",0.0
+EU27,Commodity,Aviation Gasoline,169950175.71168
+EU27,Commodity,BKB/Peat Briquettes,0.0
+EU27,Commodity,Basic iron and steel and of ferro-alloys and first products thereof,87161166299.69302
+EU27,Commodity,Beverages,81966276164.46227
+EU27,Commodity,Biodiesels,465185281.49466586
+EU27,Commodity,Biogas,1510062269.2542958
+EU27,Commodity,Biogasoline,3116488672.7632647
+EU27,Commodity,Bitumen,2793751899.3147087
+EU27,Commodity,Blast Furnace Gas,210362212.282955
+EU27,Commodity,"Bottles for treatment, Recycling of bottles by direct reuse",0.0
+EU27,Commodity,"Bricks, tiles and construction products, in baked clay",6433609924.177995
+EU27,Commodity,Cattle,42006900503.94267
+EU27,Commodity,"Cement, lime and plaster",50123424478.25142
+EU27,Commodity,Ceramic goods,3386234797.4921284
+EU27,Commodity,Cereal grains nec,35186850783.62818
+EU27,Commodity,Charcoal,0.0
+EU27,Commodity,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",3603270842.0092497
+EU27,Commodity,Chemicals nec,400742776401.51843
+EU27,Commodity,Coal Tar,532790.412706997
+EU27,Commodity,Coke Oven Coke,264021100.68674454
+EU27,Commodity,Coke oven gas,110897810.06911528
+EU27,Commodity,Coking Coal,3048212749.79579
+EU27,Commodity,"Collected and purified water, distribution services of water (41)",39248904542.08287
+EU27,Commodity,Computer and related services (72),544950464381.1964
+EU27,Commodity,Construction work (45),794552076975.413
+EU27,Commodity,Copper ores and concentrates,3693755790.520606
+EU27,Commodity,Copper products,15522523542.811531
+EU27,Commodity,Crops nec,35055179338.883736
+EU27,Commodity,"Crude petroleum and services related to crude oil extraction, excluding surveying",90350842538.0505
+EU27,Commodity,Dairy products,70633884388.72678
+EU27,Commodity,Distribution and trade services of electricity,93012421324.59323
+EU27,Commodity,Distribution services of gaseous fuels through mains,57229114685.18328
+EU27,Commodity,Dysprosium,8170.105949323158
+EU27,Commodity,Education services (80),238553174561.65784
+EU27,Commodity,Electrical machinery and apparatus n.e.c. (31),103942895626.54375
+EU27,Commodity,Electricity,187605923188.17746
+EU27,Commodity,Ethane,1234472858.3672233
+EU27,Commodity,Extra-territorial organizations and bodies,0.0
+EU27,Commodity,"Fabricated metal products, except machinery and equipment (28)",255993494347.89053
+EU27,Commodity,"Financial intermediation services, except insurance and pension funding services (65)",584268039742.9033
+EU27,Commodity,Fish and other fishing products; services incidental of fishing (05),4447642687.795752
+EU27,Commodity,Fish products,9766659403.388597
+EU27,Commodity,Food products nec,272603727724.8452
+EU27,Commodity,Food waste for treatment: biogasification and land application,0.0
+EU27,Commodity,Food waste for treatment: composting and land application,283001373.9287131
+EU27,Commodity,Food waste for treatment: incineration,2023048553.51261
+EU27,Commodity,Food waste for treatment: landfill,5190177853.283517
+EU27,Commodity,Food waste for treatment: waste water treatment,23418428504.81739
+EU27,Commodity,Foundry work services,29982017600.105988
+EU27,Commodity,Furniture; other manufactured goods n.e.c. (36),169839145691.2819
+EU27,Commodity,Gas Coke,0.0
+EU27,Commodity,Gas Works Gas,153458587.5254311
+EU27,Commodity,Gas/Diesel Oil,78893266572.97304
+EU27,Commodity,Gasoline Type Jet Fuel,0.0
+EU27,Commodity,Glass and glass products,26377205813.997776
+EU27,Commodity,Health and social work services (85),1154893358158.1548
+EU27,Commodity,Heavy Fuel Oil,10560939484.627796
+EU27,Commodity,Hotel and restaurant services (55),843973096719.666
+EU27,Commodity,Inert/metal/hazardous waste for treatment: landfill,8057083072.143726
+EU27,Commodity,Inland water transportation services,15531354559.697063
+EU27,Commodity,"Insurance and pension funding services, except compulsory social security services (66)",471519045920.40375
+EU27,Commodity,Intert/metal waste for treatment: incineration,2608959775.445264
+EU27,Commodity,Iron ores,11195282654.947899
+EU27,Commodity,Kerosene,624294639.4834855
+EU27,Commodity,Kerosene Type Jet Fuel,25376097570.988365
+EU27,Commodity,LFP batteries,60936300000.0
+EU27,Commodity,"Lead, zinc and tin and products thereof",864767169.6938233
+EU27,Commodity,"Lead, zinc and tin ores and concentrates",620052323.1480229
+EU27,Commodity,Leather and leather products (19),7833743608.033482
+EU27,Commodity,Lignite/Brown Coal,1876149869.1227636
+EU27,Commodity,Liquefied Petroleum Gases (LPG),18356132734.775196
+EU27,Commodity,Lubricants,4160967280.5394664
+EU27,Commodity,Machinery and equipment n.e.c. (29),403468163571.986
+EU27,Commodity,Manure (biogas treatment),0.0
+EU27,Commodity,Manure (conventional treatment),0.0
+EU27,Commodity,Meat animals nec,125729896.24838169
+EU27,Commodity,Meat products nec,22260363489.77729
+EU27,Commodity,"Medical, precision and optical instruments, watches and clocks (33)",189580426054.4391
+EU27,Commodity,Membership organisation services n.e.c. (91),156638099595.8594
+EU27,Commodity,Motor Gasoline,176303764602.0528
+EU27,Commodity,"Motor vehicles, trailers and semi-trailers (34)",484138478825.5423
+EU27,Commodity,N-fertiliser,234395292.3942715
+EU27,Commodity,NCA batteries,60936300000.0
+EU27,Commodity,NMC batteries,60936300000.0
+EU27,Commodity,Naphtha,1040669557.7436926
+EU27,Commodity,Natural Gas Liquids,23570889877.744846
+EU27,Commodity,"Natural gas and services related to natural gas extraction, excluding surveying",60790111373.252335
+EU27,Commodity,Neodymium,45895.84531345572
+EU27,Commodity,Nickel ores and concentrates,0.0
+EU27,Commodity,Non-specified Petroleum Products,534979020.24804884
+EU27,Commodity,Nuclear fuel,242655930.0404276
+EU27,Commodity,Office machinery and computers (30),88291872197.81055
+EU27,Commodity,Offshore wind plants,8305800848.34671
+EU27,Commodity,Oil seeds,15505672224.254116
+EU27,Commodity,Oil/hazardous waste for treatment: incineration,343935693.53237057
+EU27,Commodity,Onshore wind plants,18456331090.09496
+EU27,Commodity,Other Bituminous Coal,13948583863.736774
+EU27,Commodity,Other Hydrocarbons,13259522959.961027
+EU27,Commodity,Other Liquid Biofuels,41869545.51122832
+EU27,Commodity,Other business services (74),1879804720171.2913
+EU27,Commodity,Other land transportation services,302932271836.3872
+EU27,Commodity,Other non-ferrous metal ores and concentrates,311662069.3231949
+EU27,Commodity,Other non-ferrous metal products,3837894812.388743
+EU27,Commodity,Other non-metallic mineral products,15777108661.626722
+EU27,Commodity,Other services (93),163916828022.23734
+EU27,Commodity,Other transport equipment (35),177945018201.35062
+EU27,Commodity,Other waste for treatment: waste water treatment,6791131847.707696
+EU27,Commodity,Oxygen Steel Furnace Gas,0.0
+EU27,Commodity,P- and other fertiliser,12218926582.532036
+EU27,Commodity,Paddy rice,3476093591.983015
+EU27,Commodity,Paper and paper products,153245229558.59595
+EU27,Commodity,Paper and wood waste for treatment: composting and land application,6556531575.380572
+EU27,Commodity,Paper for treatment: landfill,6241187534.999566
+EU27,Commodity,Paper waste for treatment: biogasification and land application,0.0
+EU27,Commodity,Paper waste for treatment: incineration,3559588970.634475
+EU27,Commodity,Paraffin Waxes,191712665.60978544
+EU27,Commodity,Patent Fuel,10144591.519321362
+EU27,Commodity,Peat,0.0
+EU27,Commodity,Petroleum Coke,1669036223.6017818
+EU27,Commodity,Photovoltaic plants,37102155197.78888
+EU27,Commodity,Pigs,16819248668.239004
+EU27,Commodity,Plant-based fibers,4385242991.723473
+EU27,Commodity,Plastic waste for treatment: incineration,7122540761.75807
+EU27,Commodity,Plastic waste for treatment: landfill,4752165199.620027
+EU27,Commodity,"Plastics, basic",38716954471.504036
+EU27,Commodity,Post and telecommunication services (64),843747027407.2257
+EU27,Commodity,Poultry,27941096445.082535
+EU27,Commodity,Precious metal ores and concentrates,4762979497.525528
+EU27,Commodity,Precious metals,11432504135.489952
+EU27,Commodity,Printed matter and recorded media (22),125087924547.28505
+EU27,Commodity,Private households with employed persons (95),17296060150.211926
+EU27,Commodity,Processed rice,1316116287.8935864
+EU27,Commodity,"Products of forestry, logging and related services (02)",56492153518.31215
+EU27,Commodity,Products of meat cattle,43849272997.707504
+EU27,Commodity,Products of meat pigs,34584966516.18214
+EU27,Commodity,Products of meat poultry,43472852791.20642
+EU27,Commodity,Public administration and defence services; compulsory social security services (75),2506011554089.238
+EU27,Commodity,Pulp,8615648923.213509
+EU27,Commodity,"Radio, television and communication equipment and apparatus (32)",236423452434.45828
+EU27,Commodity,Railway transportation services,34331731238.56774
+EU27,Commodity,Raw milk,28474273511.523155
+EU27,Commodity,Raw silicon,0.0
+EU27,Commodity,Real estate services (70),1859466100497.3457
+EU27,Commodity,"Recreational, cultural and sporting services (92)",276386451660.2292
+EU27,Commodity,Refinery Feedstocks,4186014493.1648407
+EU27,Commodity,Refinery Gas,602021387.9916822
+EU27,Commodity,Renting services of machinery and equipment without operator and of personal and household goods (71),309687483600.8707
+EU27,Commodity,Research and development services (73),116117454212.1671
+EU27,Commodity,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",80815157741.6204
+EU27,Commodity,Retail trade services of motor fuel,913720188.2462959
+EU27,Commodity,Rubber and plastic products (25),177303356100.95096
+EU27,Commodity,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",412437174940.08527
+EU27,Commodity,Sand and clay,13404319296.673813
+EU27,Commodity,Sea and coastal water transportation services,17848628990.971333
+EU27,Commodity,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",0.0
+EU27,Commodity,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",0.0
+EU27,Commodity,"Secondary copper for treatment, Re-processing of secondary copper into new copper",0.0
+EU27,Commodity,"Secondary glass for treatment, Re-processing of secondary glass into new glass",0.0
+EU27,Commodity,"Secondary lead for treatment, Re-processing of secondary lead into new lead",0.0
+EU27,Commodity,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",0.0
+EU27,Commodity,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",0.0
+EU27,Commodity,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",0.0
+EU27,Commodity,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",0.0
+EU27,Commodity,Secondary raw materials,8689462644.637009
+EU27,Commodity,"Secondary steel for treatment, Re-processing of secondary steel into new steel",0.0
+EU27,Commodity,Services auxiliary to financial intermediation (67),378068931122.5919
+EU27,Commodity,Sewage sludge for treatment: biogasification and land application,18643302352.27723
+EU27,Commodity,Steam and hot water supply services,823639867.1260947
+EU27,Commodity,Stone,15822896949.46261
+EU27,Commodity,Sub-Bituminous Coal,398875084.4970892
+EU27,Commodity,Sugar,8122853090.325085
+EU27,Commodity,"Sugar cane, sugar beet",2474493955.8166428
+EU27,Commodity,Supporting and auxiliary transport services; travel agency services (63),156754851063.3711
+EU27,Commodity,Textiles (17),75468973280.97487
+EU27,Commodity,Textiles waste for treatment: incineration,1027051610.5419056
+EU27,Commodity,Textiles waste for treatment: landfill,1628929938.4605873
+EU27,Commodity,Tobacco products (16),48328344795.4888
+EU27,Commodity,Transmission services of electricity,25512661463.06344
+EU27,Commodity,Transportation services via pipelines,2796232190.94006
+EU27,Commodity,Uranium and thorium ores (12),896503049.8706772
+EU27,Commodity,"Vegetables, fruit, nuts",72900743107.04063
+EU27,Commodity,Wearing apparel; furs (18),47485072130.84998
+EU27,Commodity,Wheat,8176063696.798128
+EU27,Commodity,White Spirit & SBP,650332327.5546436
+EU27,Commodity,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",468283514826.7089
+EU27,Commodity,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),82878799849.33073
+EU27,Commodity,"Wood material for treatment, Re-processing of secondary wood material into new wood material",0.0
+EU27,Commodity,Wood waste for treatment: incineration,1286690408.1022666
+EU27,Commodity,Wood waste for treatment: landfill,2061746997.7023547
+EU27,Commodity,"Wool, silk-worm cocoons",16740430.34319344
+EU27,Commodity,products of Vegetable oils and fats,14572490187.724085
+RoW,Commodity,Additives/Blending Components,15193328965.730518
+RoW,Commodity,Air transport services (62),264361065700.32935
+RoW,Commodity,Aluminium and aluminium products,114541573146.79863
+RoW,Commodity,Aluminium ores and concentrates,7315372456.725002
+RoW,Commodity,Animal products nec,50703359019.071045
+RoW,Commodity,Anthracite,9976340325.010784
+RoW,Commodity,"Ash for treatment, Re-processing of ash into clinker",0.0
+RoW,Commodity,Aviation Gasoline,450975704.61908317
+RoW,Commodity,BKB/Peat Briquettes,574759984.3134341
+RoW,Commodity,Basic iron and steel and of ferro-alloys and first products thereof,742821772558.8851
+RoW,Commodity,Beverages,279777049697.6429
+RoW,Commodity,Biodiesels,1060936605.6123912
+RoW,Commodity,Biogas,1488092760.2944298
+RoW,Commodity,Biogasoline,1397400951.4187453
+RoW,Commodity,Bitumen,10115338230.61861
+RoW,Commodity,Blast Furnace Gas,3717570477.050074
+RoW,Commodity,"Bottles for treatment, Recycling of bottles by direct reuse",0.0
+RoW,Commodity,"Bricks, tiles and construction products, in baked clay",10307784491.045593
+RoW,Commodity,Cattle,114993237626.80315
+RoW,Commodity,"Cement, lime and plaster",110816502219.29701
+RoW,Commodity,Ceramic goods,64436180429.948364
+RoW,Commodity,Cereal grains nec,143946905978.44244
+RoW,Commodity,Charcoal,4101764319.1938457
+RoW,Commodity,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",32560715170.916542
+RoW,Commodity,Chemicals nec,1278295623410.2358
+RoW,Commodity,Coal Tar,1612047234.519064
+RoW,Commodity,Coke Oven Coke,22912252556.67689
+RoW,Commodity,Coke oven gas,2500153440.660678
+RoW,Commodity,Coking Coal,22543112404.598755
+RoW,Commodity,"Collected and purified water, distribution services of water (41)",119524562537.2246
+RoW,Commodity,Computer and related services (72),656019960044.1794
+RoW,Commodity,Construction work (45),3536586591405.065
+RoW,Commodity,Copper ores and concentrates,75068625136.43222
+RoW,Commodity,Copper products,110233378121.97305
+RoW,Commodity,Crops nec,265504319351.8377
+RoW,Commodity,"Crude petroleum and services related to crude oil extraction, excluding surveying",1211579464744.6787
+RoW,Commodity,Dairy products,137391688627.83412
+RoW,Commodity,Distribution and trade services of electricity,228212302217.78815
+RoW,Commodity,Distribution services of gaseous fuels through mains,130963785427.24939
+RoW,Commodity,Dysprosium,102948.43331151818
+RoW,Commodity,Education services (80),1088216055945.9347
+RoW,Commodity,Electrical machinery and apparatus n.e.c. (31),581525890934.7566
+RoW,Commodity,Electricity,527684250317.318
+RoW,Commodity,Ethane,1799351330.6124399
+RoW,Commodity,Extra-territorial organizations and bodies,0.0
+RoW,Commodity,"Fabricated metal products, except machinery and equipment (28)",709160782353.0006
+RoW,Commodity,"Financial intermediation services, except insurance and pension funding services (65)",980326849616.1401
+RoW,Commodity,Fish and other fishing products; services incidental of fishing (05),146175357957.16434
+RoW,Commodity,Fish products,206308279853.4426
+RoW,Commodity,Food products nec,760398090211.6476
+RoW,Commodity,Food waste for treatment: biogasification and land application,3803298163.3303156
+RoW,Commodity,Food waste for treatment: composting and land application,8438878244.944647
+RoW,Commodity,Food waste for treatment: incineration,19781268875.403725
+RoW,Commodity,Food waste for treatment: landfill,96410616596.2247
+RoW,Commodity,Food waste for treatment: waste water treatment,58705125360.11789
+RoW,Commodity,Foundry work services,80459754161.45154
+RoW,Commodity,Furniture; other manufactured goods n.e.c. (36),343468345764.0832
+RoW,Commodity,Gas Coke,10203948.217628364
+RoW,Commodity,Gas Works Gas,664466245.0066751
+RoW,Commodity,Gas/Diesel Oil,314865660295.33856
+RoW,Commodity,Gasoline Type Jet Fuel,283914983.331297
+RoW,Commodity,Glass and glass products,86456089298.91943
+RoW,Commodity,Health and social work services (85),1972773432224.0598
+RoW,Commodity,Heavy Fuel Oil,100606354401.12154
+RoW,Commodity,Hotel and restaurant services (55),1490178555570.5476
+RoW,Commodity,Inert/metal/hazardous waste for treatment: landfill,38210280488.75563
+RoW,Commodity,Inland water transportation services,11959841146.858997
+RoW,Commodity,"Insurance and pension funding services, except compulsory social security services (66)",530854441383.6094
+RoW,Commodity,Intert/metal waste for treatment: incineration,5956475922.236254
+RoW,Commodity,Iron ores,104672545901.97911
+RoW,Commodity,Kerosene,39365511024.44184
+RoW,Commodity,Kerosene Type Jet Fuel,53091495648.13579
+RoW,Commodity,LFP batteries,0.0
+RoW,Commodity,"Lead, zinc and tin and products thereof",21940995415.22926
+RoW,Commodity,"Lead, zinc and tin ores and concentrates",24720814524.53323
+RoW,Commodity,Leather and leather products (19),91931354108.02483
+RoW,Commodity,Lignite/Brown Coal,4335485798.598629
+RoW,Commodity,Liquefied Petroleum Gases (LPG),69488080321.63889
+RoW,Commodity,Lubricants,12665758941.921906
+RoW,Commodity,Machinery and equipment n.e.c. (29),1060357618451.6821
+RoW,Commodity,Manure (biogas treatment),0.0
+RoW,Commodity,Manure (conventional treatment),0.0
+RoW,Commodity,Meat animals nec,14634501696.506397
+RoW,Commodity,Meat products nec,67708256290.83039
+RoW,Commodity,"Medical, precision and optical instruments, watches and clocks (33)",288670393853.73395
+RoW,Commodity,Membership organisation services n.e.c. (91),201119658640.80426
+RoW,Commodity,Motor Gasoline,330610044196.5867
+RoW,Commodity,"Motor vehicles, trailers and semi-trailers (34)",1183947287039.743
+RoW,Commodity,N-fertiliser,4722850398.037847
+RoW,Commodity,NCA batteries,0.0
+RoW,Commodity,NMC batteries,0.0
+RoW,Commodity,Naphtha,74801089638.73193
+RoW,Commodity,Natural Gas Liquids,67922174184.433754
+RoW,Commodity,"Natural gas and services related to natural gas extraction, excluding surveying",147506693347.4825
+RoW,Commodity,Neodymium,578316.2911026232
+RoW,Commodity,Nickel ores and concentrates,28268222582.882164
+RoW,Commodity,Non-specified Petroleum Products,7523911544.391644
+RoW,Commodity,Nuclear fuel,8439511755.855101
+RoW,Commodity,Office machinery and computers (30),178355870038.532
+RoW,Commodity,Offshore wind plants,32836111538.47843
+RoW,Commodity,Oil seeds,76923721547.91074
+RoW,Commodity,Oil/hazardous waste for treatment: incineration,6516832114.885731
+RoW,Commodity,Onshore wind plants,75737861792.96082
+RoW,Commodity,Other Bituminous Coal,96315338607.12592
+RoW,Commodity,Other Hydrocarbons,17334551841.97141
+RoW,Commodity,Other Liquid Biofuels,950823251.4561846
+RoW,Commodity,Other business services (74),1738691686275.6133
+RoW,Commodity,Other land transportation services,1089216797155.7775
+RoW,Commodity,Other non-ferrous metal ores and concentrates,38767976462.48465
+RoW,Commodity,Other non-ferrous metal products,76708150374.71178
+RoW,Commodity,Other non-metallic mineral products,128641279496.42953
+RoW,Commodity,Other services (93),400394161040.8168
+RoW,Commodity,Other transport equipment (35),282991226775.9964
+RoW,Commodity,Other waste for treatment: waste water treatment,103520683240.04204
+RoW,Commodity,Oxygen Steel Furnace Gas,678372757.9368508
+RoW,Commodity,P- and other fertiliser,70264978127.42502
+RoW,Commodity,Paddy rice,145887845954.26263
+RoW,Commodity,Paper and paper products,257414117814.4425
+RoW,Commodity,Paper and wood waste for treatment: composting and land application,2009729907.2456484
+RoW,Commodity,Paper for treatment: landfill,44378654325.629005
+RoW,Commodity,Paper waste for treatment: biogasification and land application,755917527.4333342
+RoW,Commodity,Paper waste for treatment: incineration,19791502574.308163
+RoW,Commodity,Paraffin Waxes,1065192246.2484126
+RoW,Commodity,Patent Fuel,462734772.430545
+RoW,Commodity,Peat,688917771.7096925
+RoW,Commodity,Petroleum Coke,3810453762.3705688
+RoW,Commodity,Photovoltaic plants,267030341042.8304
+RoW,Commodity,Pigs,91180935114.45668
+RoW,Commodity,Plant-based fibers,33867906026.807724
+RoW,Commodity,Plastic waste for treatment: incineration,6701175248.672599
+RoW,Commodity,Plastic waste for treatment: landfill,32685255673.22071
+RoW,Commodity,"Plastics, basic",121857083158.6894
+RoW,Commodity,Post and telecommunication services (64),907131883514.0741
+RoW,Commodity,Poultry,119449406677.41954
+RoW,Commodity,Precious metal ores and concentrates,84387697716.48846
+RoW,Commodity,Precious metals,113523289814.66748
+RoW,Commodity,Printed matter and recorded media (22),317833544317.1177
+RoW,Commodity,Private households with employed persons (95),80996476420.43024
+RoW,Commodity,Processed rice,89565852841.57664
+RoW,Commodity,"Products of forestry, logging and related services (02)",121706614595.78934
+RoW,Commodity,Products of meat cattle,82716468709.59897
+RoW,Commodity,Products of meat pigs,48610165624.38241
+RoW,Commodity,Products of meat poultry,52695409376.944084
+RoW,Commodity,Public administration and defence services; compulsory social security services (75),2172814124975.386
+RoW,Commodity,Pulp,41100536342.95974
+RoW,Commodity,"Radio, television and communication equipment and apparatus (32)",730510943405.2246
+RoW,Commodity,Railway transportation services,286485953563.3262
+RoW,Commodity,Raw milk,166794192379.7237
+RoW,Commodity,Raw silicon,0.0
+RoW,Commodity,Real estate services (70),2035261244856.317
+RoW,Commodity,"Recreational, cultural and sporting services (92)",557897799858.8145
+RoW,Commodity,Refinery Feedstocks,14585490401.863754
+RoW,Commodity,Refinery Gas,1983381754.0908804
+RoW,Commodity,Renting services of machinery and equipment without operator and of personal and household goods (71),409328460023.2975
+RoW,Commodity,Research and development services (73),420010771011.10986
+RoW,Commodity,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",849831891885.2129
+RoW,Commodity,Retail trade services of motor fuel,20280726663.793205
+RoW,Commodity,Rubber and plastic products (25),487276989362.1743
+RoW,Commodity,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",656878547508.9374
+RoW,Commodity,Sand and clay,80479368699.23433
+RoW,Commodity,Sea and coastal water transportation services,223130614575.62122
+RoW,Commodity,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",0.0
+RoW,Commodity,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",0.0
+RoW,Commodity,"Secondary copper for treatment, Re-processing of secondary copper into new copper",0.0
+RoW,Commodity,"Secondary glass for treatment, Re-processing of secondary glass into new glass",0.0
+RoW,Commodity,"Secondary lead for treatment, Re-processing of secondary lead into new lead",0.0
+RoW,Commodity,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",0.0
+RoW,Commodity,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",0.0
+RoW,Commodity,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",0.0
+RoW,Commodity,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",0.0
+RoW,Commodity,Secondary raw materials,32554860143.849297
+RoW,Commodity,"Secondary steel for treatment, Re-processing of secondary steel into new steel",0.0
+RoW,Commodity,Services auxiliary to financial intermediation (67),450000835982.63135
+RoW,Commodity,Sewage sludge for treatment: biogasification and land application,3565696262.6158423
+RoW,Commodity,Steam and hot water supply services,15865603231.371567
+RoW,Commodity,Stone,51544177830.98666
+RoW,Commodity,Sub-Bituminous Coal,5247063983.174339
+RoW,Commodity,Sugar,68182062110.4669
+RoW,Commodity,"Sugar cane, sugar beet",45681379351.989044
+RoW,Commodity,Supporting and auxiliary transport services; travel agency services (63),716491983618.3911
+RoW,Commodity,Textiles (17),347474379406.5108
+RoW,Commodity,Textiles waste for treatment: incineration,5158390153.66867
+RoW,Commodity,Textiles waste for treatment: landfill,14107757442.720306
+RoW,Commodity,Tobacco products (16),90239979681.17632
+RoW,Commodity,Transmission services of electricity,62625709951.82725
+RoW,Commodity,Transportation services via pipelines,34580750868.44967
+RoW,Commodity,Uranium and thorium ores (12),11772527000.359638
+RoW,Commodity,"Vegetables, fruit, nuts",400994368607.23413
+RoW,Commodity,Wearing apparel; furs (18),256336939653.56354
+RoW,Commodity,Wheat,97220009701.24095
+RoW,Commodity,White Spirit & SBP,3963397368.626558
+RoW,Commodity,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",1170039444329.6694
+RoW,Commodity,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),197540079279.69952
+RoW,Commodity,"Wood material for treatment, Re-processing of secondary wood material into new wood material",0.0
+RoW,Commodity,Wood waste for treatment: incineration,6255343146.377025
+RoW,Commodity,Wood waste for treatment: landfill,16912619398.657286
+RoW,Commodity,"Wool, silk-worm cocoons",3555039012.1994567
+RoW,Commodity,products of Vegetable oils and fats,144420258812.30658
+USA,Commodity,Additives/Blending Components,0.0
+USA,Commodity,Air transport services (62),61917827403.88754
+USA,Commodity,Aluminium and aluminium products,128463079756.75418
+USA,Commodity,Aluminium ores and concentrates,3228991363.989265
+USA,Commodity,Animal products nec,27061457044.364677
+USA,Commodity,Anthracite,0.0
+USA,Commodity,"Ash for treatment, Re-processing of ash into clinker",0.0
+USA,Commodity,Aviation Gasoline,210183909.13674355
+USA,Commodity,BKB/Peat Briquettes,0.0
+USA,Commodity,Basic iron and steel and of ferro-alloys and first products thereof,707483913261.9569
+USA,Commodity,Beverages,31989063574.05497
+USA,Commodity,Biodiesels,217378113.0375414
+USA,Commodity,Biogas,1756574962.1069973
+USA,Commodity,Biogasoline,1935473192.037177
+USA,Commodity,Bitumen,4217058373.601332
+USA,Commodity,Blast Furnace Gas,2574679855.531639
+USA,Commodity,"Bottles for treatment, Recycling of bottles by direct reuse",0.0
+USA,Commodity,"Bricks, tiles and construction products, in baked clay",5213304253.110797
+USA,Commodity,Cattle,16104980064.604696
+USA,Commodity,"Cement, lime and plaster",63597384848.94215
+USA,Commodity,Ceramic goods,155954995667.25507
+USA,Commodity,Cereal grains nec,40137359869.99988
+USA,Commodity,Charcoal,0.0
+USA,Commodity,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",5589116060.472322
+USA,Commodity,Chemicals nec,618823994857.5763
+USA,Commodity,Coal Tar,4505366845.051323
+USA,Commodity,Coke Oven Coke,39047931053.034065
+USA,Commodity,Coke oven gas,1090385661.349736
+USA,Commodity,Coking Coal,23512689820.309822
+USA,Commodity,"Collected and purified water, distribution services of water (41)",16186673082.441118
+USA,Commodity,Computer and related services (72),225349559212.703
+USA,Commodity,Construction work (45),1499902435813.605
+USA,Commodity,Copper ores and concentrates,29732507231.210175
+USA,Commodity,Copper products,83818495383.92542
+USA,Commodity,Crops nec,52255379809.78496
+USA,Commodity,"Crude petroleum and services related to crude oil extraction, excluding surveying",128504716579.67896
+USA,Commodity,Dairy products,9222385078.217678
+USA,Commodity,Distribution and trade services of electricity,169515965624.60632
+USA,Commodity,Distribution services of gaseous fuels through mains,18021298555.06796
+USA,Commodity,Dysprosium,16340.211898646323
+USA,Commodity,Education services (80),294546460057.67053
+USA,Commodity,Electrical machinery and apparatus n.e.c. (31),522442986419.8265
+USA,Commodity,Electricity,348729085891.0893
+USA,Commodity,Ethane,0.0
+USA,Commodity,Extra-territorial organizations and bodies,0.0
+USA,Commodity,"Fabricated metal products, except machinery and equipment (28)",336362860715.0985
+USA,Commodity,"Financial intermediation services, except insurance and pension funding services (65)",254707907988.0005
+USA,Commodity,Fish and other fishing products; services incidental of fishing (05),141815912325.22925
+USA,Commodity,Fish products,211526430414.06613
+USA,Commodity,Food products nec,393453769964.4867
+USA,Commodity,Food waste for treatment: biogasification and land application,0.0
+USA,Commodity,Food waste for treatment: composting and land application,759069581.0522714
+USA,Commodity,Food waste for treatment: incineration,3371446269.3646507
+USA,Commodity,Food waste for treatment: landfill,10532757751.473782
+USA,Commodity,Food waste for treatment: waste water treatment,12395275532.415237
+USA,Commodity,Foundry work services,50242596910.65719
+USA,Commodity,Furniture; other manufactured goods n.e.c. (36),323270241381.5266
+USA,Commodity,Gas Coke,406125599.5389904
+USA,Commodity,Gas Works Gas,89300746.9989708
+USA,Commodity,Gas/Diesel Oil,126811434162.35786
+USA,Commodity,Gasoline Type Jet Fuel,0.0
+USA,Commodity,Glass and glass products,154901910651.54315
+USA,Commodity,Health and social work services (85),314690883815.58203
+USA,Commodity,Heavy Fuel Oil,9818133760.489265
+USA,Commodity,Hotel and restaurant services (55),390657360394.0383
+USA,Commodity,Inert/metal/hazardous waste for treatment: landfill,3576044642.9422636
+USA,Commodity,Inland water transportation services,3335994517.967763
+USA,Commodity,"Insurance and pension funding services, except compulsory social security services (66)",123265419831.7778
+USA,Commodity,Intert/metal waste for treatment: incineration,485277971.52674794
+USA,Commodity,Iron ores,8038197107.5741205
+USA,Commodity,Kerosene,5376800164.740932
+USA,Commodity,Kerosene Type Jet Fuel,7267286850.037676
+USA,Commodity,LFP batteries,0.0
+USA,Commodity,"Lead, zinc and tin and products thereof",34317229839.278393
+USA,Commodity,"Lead, zinc and tin ores and concentrates",4284539889.8804765
+USA,Commodity,Leather and leather products (19),107617978624.82607
+USA,Commodity,Lignite/Brown Coal,0.0
+USA,Commodity,Liquefied Petroleum Gases (LPG),33487737853.318043
+USA,Commodity,Lubricants,13447707084.17381
+USA,Commodity,Machinery and equipment n.e.c. (29),768029389002.7021
+USA,Commodity,Manure (biogas treatment),0.0
+USA,Commodity,Manure (conventional treatment),0.0
+USA,Commodity,Meat animals nec,20051134969.65148
+USA,Commodity,Meat products nec,38289342849.47619
+USA,Commodity,"Medical, precision and optical instruments, watches and clocks (33)",87835621423.43394
+USA,Commodity,Membership organisation services n.e.c. (91),71982763898.71535
+USA,Commodity,Motor Gasoline,106765312298.60083
+USA,Commodity,"Motor vehicles, trailers and semi-trailers (34)",350572921588.7323
+USA,Commodity,N-fertiliser,223976796.98475552
+USA,Commodity,NCA batteries,0.0
+USA,Commodity,NMC batteries,0.0
+USA,Commodity,Naphtha,41485065744.58751
+USA,Commodity,Natural Gas Liquids,3446759.9779227837
+USA,Commodity,"Natural gas and services related to natural gas extraction, excluding surveying",7896853503.269861
+USA,Commodity,Neodymium,91791.69062691143
+USA,Commodity,Nickel ores and concentrates,5261611661.7946415
+USA,Commodity,Non-specified Petroleum Products,3607973987.60336
+USA,Commodity,Nuclear fuel,48481211.58525233
+USA,Commodity,Office machinery and computers (30),333607142471.0928
+USA,Commodity,Offshore wind plants,5068732938.81064
+USA,Commodity,Oil seeds,20765089051.03102
+USA,Commodity,Oil/hazardous waste for treatment: incineration,867597793.0306854
+USA,Commodity,Onshore wind plants,43321609913.54601
+USA,Commodity,Other Bituminous Coal,94954514098.30891
+USA,Commodity,Other Hydrocarbons,0.0
+USA,Commodity,Other Liquid Biofuels,0.0
+USA,Commodity,Other business services (74),380590837081.97266
+USA,Commodity,Other land transportation services,135823140730.2191
+USA,Commodity,Other non-ferrous metal ores and concentrates,47462560292.913605
+USA,Commodity,Other non-ferrous metal products,66354858921.225716
+USA,Commodity,Other non-metallic mineral products,107748248047.31824
+USA,Commodity,Other services (93),147438234119.48935
+USA,Commodity,Other transport equipment (35),268740852101.56403
+USA,Commodity,Other waste for treatment: waste water treatment,22286261209.39354
+USA,Commodity,Oxygen Steel Furnace Gas,1364545.2081210043
+USA,Commodity,P- and other fertiliser,39160997431.918015
+USA,Commodity,Paddy rice,29821848134.74724
+USA,Commodity,Paper and paper products,133458793410.00241
+USA,Commodity,Paper and wood waste for treatment: composting and land application,184288830.9830485
+USA,Commodity,Paper for treatment: landfill,4486399439.996658
+USA,Commodity,Paper waste for treatment: biogasification and land application,0.0
+USA,Commodity,Paper waste for treatment: incineration,3357342809.281473
+USA,Commodity,Paraffin Waxes,5838348016.300042
+USA,Commodity,Patent Fuel,318022707.6107558
+USA,Commodity,Peat,0.0
+USA,Commodity,Petroleum Coke,2195885425.717096
+USA,Commodity,Photovoltaic plants,57252066027.48476
+USA,Commodity,Pigs,57754270239.42056
+USA,Commodity,Plant-based fibers,22777328880.33577
+USA,Commodity,Plastic waste for treatment: incineration,774202237.3356329
+USA,Commodity,Plastic waste for treatment: landfill,3540676491.1767235
+USA,Commodity,"Plastics, basic",75868358293.0242
+USA,Commodity,Post and telecommunication services (64),12287642937.172626
+USA,Commodity,Poultry,43829114796.49638
+USA,Commodity,Precious metal ores and concentrates,25783127724.128098
+USA,Commodity,Precious metals,44364949008.949486
+USA,Commodity,Printed matter and recorded media (22),132498256071.01509
+USA,Commodity,Private households with employed persons (95),25987144936.74205
+USA,Commodity,Processed rice,21286392113.123325
+USA,Commodity,"Products of forestry, logging and related services (02)",39067707214.049934
+USA,Commodity,Products of meat cattle,2732055221.0384736
+USA,Commodity,Products of meat pigs,10571320787.341957
+USA,Commodity,Products of meat poultry,9647210918.487091
+USA,Commodity,Public administration and defence services; compulsory social security services (75),440811791310.40186
+USA,Commodity,Pulp,2344694516.690282
+USA,Commodity,"Radio, television and communication equipment and apparatus (32)",354696981409.65027
+USA,Commodity,Railway transportation services,44081509765.84311
+USA,Commodity,Raw milk,16172971053.657703
+USA,Commodity,Raw silicon,0.0
+USA,Commodity,Real estate services (70),285476402245.0701
+USA,Commodity,"Recreational, cultural and sporting services (92)",84973059844.70026
+USA,Commodity,Refinery Feedstocks,130281516.24129017
+USA,Commodity,Refinery Gas,1004642560.8448744
+USA,Commodity,Renting services of machinery and equipment without operator and of personal and household goods (71),32635767521.829613
+USA,Commodity,Research and development services (73),40967648744.89314
+USA,Commodity,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",140164821186.24768
+USA,Commodity,Retail trade services of motor fuel,3983553312.5534987
+USA,Commodity,Rubber and plastic products (25),428093250853.73157
+USA,Commodity,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",69211810898.66252
+USA,Commodity,Sand and clay,56399347890.32803
+USA,Commodity,Sea and coastal water transportation services,55832919759.769485
+USA,Commodity,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",0.0
+USA,Commodity,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",0.0
+USA,Commodity,"Secondary copper for treatment, Re-processing of secondary copper into new copper",0.0
+USA,Commodity,"Secondary glass for treatment, Re-processing of secondary glass into new glass",0.0
+USA,Commodity,"Secondary lead for treatment, Re-processing of secondary lead into new lead",0.0
+USA,Commodity,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",0.0
+USA,Commodity,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",0.0
+USA,Commodity,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",0.0
+USA,Commodity,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",0.0
+USA,Commodity,Secondary raw materials,32569801412.583046
+USA,Commodity,"Secondary steel for treatment, Re-processing of secondary steel into new steel",0.0
+USA,Commodity,Services auxiliary to financial intermediation (67),65075040092.96837
+USA,Commodity,Sewage sludge for treatment: biogasification and land application,0.0
+USA,Commodity,Steam and hot water supply services,7040363376.357634
+USA,Commodity,Stone,19167294094.794167
+USA,Commodity,Sub-Bituminous Coal,0.0
+USA,Commodity,Sugar,4613812118.046913
+USA,Commodity,"Sugar cane, sugar beet",12969406162.798435
+USA,Commodity,Supporting and auxiliary transport services; travel agency services (63),233114762492.26877
+USA,Commodity,Textiles (17),455837902134.72205
+USA,Commodity,Textiles waste for treatment: incineration,784456436.6755406
+USA,Commodity,Textiles waste for treatment: landfill,1501585326.1714296
+USA,Commodity,Tobacco products (16),10750858554.387691
+USA,Commodity,Transmission services of electricity,59827650495.07094
+USA,Commodity,Transportation services via pipelines,4922253970.091567
+USA,Commodity,Uranium and thorium ores (12),923990830.7137804
+USA,Commodity,"Vegetables, fruit, nuts",192703368555.39432
+USA,Commodity,Wearing apparel; furs (18),229545524685.30374
+USA,Commodity,Wheat,17559854999.447197
+USA,Commodity,White Spirit & SBP,1446484900.6308994
+USA,Commodity,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",214469492034.68842
+USA,Commodity,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),11336523509.058651
+USA,Commodity,"Wood material for treatment, Re-processing of secondary wood material into new wood material",0.0
+USA,Commodity,Wood waste for treatment: incineration,899113261.3857684
+USA,Commodity,Wood waste for treatment: landfill,1786216897.3157187
+USA,Commodity,"Wool, silk-worm cocoons",3783805446.376658
+USA,Commodity,products of Vegetable oils and fats,26147641383.2761
